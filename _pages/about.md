@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at [Caltech](https://www.mce.caltech.edu/people/ersindas). I conduct research on robust control systems, state estimation, system identification, and machine learning techniques in robotics to address challenges posed by dynamic uncertainties in feedback control implementations.
+I am a postdoctoral researcher in the [Burdick group](https://robotics.caltech.edu/wiki/index.php/Robotics) at [Caltech](https://www.mce.caltech.edu/people/ersindas). I conduct research on robust control systems, state estimation, system identification, and machine learning techniques in robotics to address challenges posed by dynamic uncertainties in feedback control implementations.
 
 News
 ======
