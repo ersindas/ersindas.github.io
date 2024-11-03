@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Ersin Das"
-description              : &description "Postdoctoral Scholar, Caltech"
+description              : &description "Postdoctoral researcher, Caltech"
 url                      : https://ersindas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ersindas.github.io"
@@ -24,21 +24,21 @@ author:
   avatar           : "profile_ed.JPG"
   name             : "Ersin Das"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher at Caltech"
+  bio              : "Postdoctoral researcher, Caltech"
   location         : "Pasadena, CA"
   employer         : "Caltech"
   url              : "https://ersindas.github.io"
   email            : "ersindas@caltech.edu" 
 
   # Academic websites
-  arxiv            : "https://arxiv.org/search/?query=Das%2C+Ersin&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
   googlescholar    : "https://scholar.google.com/citations?user=55vSqwsAAAAJ&hl=en&oi=ao"
+  arxiv            : "https://arxiv.org/search/?query=Das%2C+Ersin&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
   # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
+  # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     :  "https://www.researchgate.net/profile/Ersin-Das"
-  scopus           : # URL
+  # scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
