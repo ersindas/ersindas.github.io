@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Associate at
+I am a postdoctoral researcher at [Caltech](https://www.mce.caltech.edu/people/ersindas). I conduct research on robust control systems, state estimation, system identification, and machine learning techniques in robotics to address challenges posed by dynamic uncertainties in feedback control implementations.
+
+News
+======
+**[September 2024]** We submitted a paper to the American Control Conference (ACC) 2025.
+
+**[October 2024]** We submitted a paper to the IEEE International Conference on Robotics and Automation (ICRA) 2025.
+
+**[July 2024]** Our paper, "Rollover Prevention for Mobile Robots With Control Barrier Functions: Differentiator-Based Adaptation and Projection-to-State Safety," was accepted by IEEE Control Systems Letters (L-CSS) and IEEE Conference on Decision and Control (CDC) 2024. Check out [here](https://arxiv.org/pdf/2403.08916) for more details.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
