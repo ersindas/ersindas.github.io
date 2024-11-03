@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the [Burdick group](https://robotics.caltech.edu/wiki/index.php/Robotics) at [Caltech](https://www.mce.caltech.edu/people/ersindas), and I am a member of the [Center for Autonomous Systems and Technologies](https://cast.caltech.edu/) (CAST). Currently, I am collaborating with the Ocean World Lander Autonomy team at the [Jet Propulsion Laboratory - NASA](https://www-robotics.jpl.nasa.gov/how-we-do-it/systems/ocean-world-lander-autonomy-testbed-owlat/).
+I am a postdoctoral researcher in the [Burdick group](https://robotics.caltech.edu/wiki/index.php/Robotics) at [Caltech](https://www.mce.caltech.edu/people/ersindas) and a member of the [Center for Autonomous Systems and Technologies](https://cast.caltech.edu/) (CAST). Currently, I am collaborating with the Ocean World Lander Autonomy team at the [Jet Propulsion Laboratory - NASA](https://www-robotics.jpl.nasa.gov/) to investigate safe autonomous lander operations on ocean worlds in the Solar System, such as Europa and Enceladus. At Caltech, I have had the privilege of working closely with Professors [Richard M. Murray](https://murray.cds.caltech.edu/Main_Page) and [Aaron Ames](http://ames.caltech.edu/).
 
 I conduct research on robust control systems, state estimation, system identification, and machine learning techniques in robotics to address challenges posed by dynamic uncertainties in feedback control implementations.
 
