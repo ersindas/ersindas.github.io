@@ -21,7 +21,7 @@ repository               : "ersindas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profil.JPG"
+  avatar           : "profile_ed.JPG"
   name             : "Ersin Das"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher at Caltech"
