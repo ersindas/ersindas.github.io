@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ersin Das/HomePage"
+title                    : "Ersin Das"
 title_separator          : "-"
 name                     : &name "Ersin Das"
 description              : &description "Postdoctoral Scholar, Caltech"
 url                      : https://ersindas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://ersindas.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "ersindas.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
