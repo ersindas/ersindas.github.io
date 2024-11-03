@@ -11,9 +11,9 @@ I am a postdoctoral researcher at [Caltech](https://www.mce.caltech.edu/people/e
 
 News
 ======
-**[September 2024]** We submitted a paper to the American Control Conference (ACC) 2025.
+**[October 2024]** We submitted a paper to the American Control Conference (ACC) 2025.
 
-**[October 2024]** We submitted a paper to the IEEE International Conference on Robotics and Automation (ICRA) 2025.
+**[September 2024]** We submitted a paper to the IEEE International Conference on Robotics and Automation (ICRA) 2025.
 
 **[July 2024]** Our paper, "Rollover Prevention for Mobile Robots With Control Barrier Functions: Differentiator-Based Adaptation and Projection-to-State Safety," was accepted by IEEE Control Systems Letters (L-CSS) and IEEE Conference on Decision and Control (CDC) 2024. Check out [here](https://arxiv.org/pdf/2403.08916) for more details.
 
