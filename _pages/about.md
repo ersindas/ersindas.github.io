@@ -19,7 +19,7 @@ News
 
 **[July 2024]** Our paper, "Rollover Prevention for Mobile Robots With Control Barrier Functions: Differentiator-Based Adaptation and Projection-to-State Safety," was accepted by IEEE Control Systems Letters (L-CSS) and IEEE Conference on Decision and Control (CDC) 2024. [arXiv link](https://arxiv.org/pdf/2403.08916)
 
-**[May 2024]** We presented our paper at the IEEE International Conference on Robotics and Automation (ICRA) 2024 in Yokohama, Japan. [arXiv link](https://arxiv.org/pdf/2409.10802) [video link](https://youtu.be/41Jh1GD_9Ok)
+**[May 2024]** We presented our paper at the IEEE International Conference on Robotics and Automation (ICRA) 2024 in Yokohama, Japan. [arXiv link](https://arxiv.org/pdf/2310.05865) [video link](https://youtu.be/41Jh1GD_9Ok)
 
 **[January 2024]** We submitted a paper to the IEEE Transactions on Automatic Control (TAC). [arXiv link](https://arxiv.org/pdf/2401.01881)
 
