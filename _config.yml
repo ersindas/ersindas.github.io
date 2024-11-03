@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ersin Das"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Ersin Das"
 description              : &description "Postdoctoral Scholar, Caltech"
