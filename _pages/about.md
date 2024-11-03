@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the [Burdick group](https://robotics.caltech.edu/wiki/index.php/Robotics) at [Caltech](https://www.mce.caltech.edu/people/ersindas). I conduct research on robust control systems, state estimation, system identification, and machine learning techniques in robotics to address challenges posed by dynamic uncertainties in feedback control implementations.
+I am a postdoctoral researcher in the [Burdick group](https://robotics.caltech.edu/wiki/index.php/Robotics) at [Caltech](https://www.mce.caltech.edu/people/ersindas), and I am a member of the [Center for Autonomous Systems and Technologies](https://cast.caltech.edu/) (CAST). Currently, I am collaborating with the Ocean World Lander Autonomy team at the [Jet Propulsion Laboratory - NASA](https://www-robotics.jpl.nasa.gov/how-we-do-it/systems/ocean-world-lander-autonomy-testbed-owlat/).
+
+I conduct research on robust control systems, state estimation, system identification, and machine learning techniques in robotics to address challenges posed by dynamic uncertainties in feedback control implementations.
 
 News
 ======
