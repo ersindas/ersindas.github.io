@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-## Preprint
+## Preprints
 
 1. **E. Daş**, J. W. Burdick, *Robust Control Barrier Functions using Uncertainty Estimation with Application to Mobile Robots*, *arXiv preprint* arXiv:2401.01881, 2024. [Paper](https://arxiv.org/pdf/2401.01881)
 2. **E. Daş**, J. W. Burdick, *Bayesian Optimal Experimental Design for Robot Kinematic Calibration*, *arXiv preprint* arXiv:2409.10802, 2024. [Paper](https://arxiv.org/pdf/2409.10802)
