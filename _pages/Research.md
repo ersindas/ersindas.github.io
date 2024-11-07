@@ -94,23 +94,15 @@ author_profile: true
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 </tbody></table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-             <td style="padding:20px;width:30%;vertical-align:top">
-              <img src='/files/europa.png' width="250">
-               <br> 
-               <br>
-               <br>
-               <br>
-                 <img src='/files/lander.png' width="250">
-            </td>
-            <td style="padding:20px;width:80%;vertical-align:middle">
-              <a href="https://arxiv.org/pdf/2409.10802">
-                  <papertitle><strong>Bayesian Optimal Experimental Design for Robot Kinematic Calibration</strong></papertitle>
-              </a>
-              <br>
-              <strong>Ersin Daş*</strong>, Thomas Touma, Joel W. Burdick
-              <br>
-              <br>
-              <p>This paper develops a Bayesian optimal experimental design for robot kinematic calibration on $\mathbb{S}^3 \!\times\! \mathbb{R}^3$. Our method builds upon a Gaussian process approach that incorporates a geometry-aware kernel based on Riemannian Mat\'ern kernels over $\mathbb{S}^3$. To learn the forward kinematics errors via Bayesian optimization with a Gaussian process, we define a geodesic distance-based objective function. Pointwise values of this function are sampled via noisy measurements taken through fiducial markers on the end-effector using a camera and computed pose with the nominal kinematics. The corrected Denavit-Hartenberg parameters are obtained using an efficient quadratic program that operates on the collected data sets. The effectiveness of the proposed method is demonstrated via simulations and calibration experiments on NASA's ocean world lander autonomy testbed (OWLAT).</p>
-              <center> <img src='/files/owlat_tom_edit.PNG' width="250"> </center>
-  </td>
+<td style="padding:20px;width:80%;vertical-align:middle" markdown="1">
+  <a href="https://arxiv.org/pdf/2409.10802">
+      <papertitle><strong>Bayesian Optimal Experimental Design for Robot Kinematic Calibration</strong></papertitle>
+  </a>
+  <br>
+  <strong>Ersin Daş*</strong>, Thomas Touma, Joel W. Burdick
+  <br>
+  <br>
+  This paper develops a Bayesian optimal experimental design for robot kinematic calibration on $\mathbb{S}^3 \times \mathbb{R}^3$. Our method builds upon a Gaussian process approach that incorporates a geometry-aware kernel based on Riemannian Matérn kernels over $\mathbb{S}^3$. To learn the forward kinematics errors via Bayesian optimization with a Gaussian process, we define a geodesic distance-based objective function. Pointwise values of this function are sampled via noisy measurements taken through fiducial markers on the end-effector using a camera and computed pose with the nominal kinematics. The corrected Denavit-Hartenberg parameters are obtained using an efficient quadratic program that operates on the collected data sets. The effectiveness of the proposed method is demonstrated via simulations and calibration experiments on NASA's ocean world lander autonomy testbed (OWLAT).
+  <center> <img src='/files/owlat_tom_edit.PNG' width="250"> </center>
+</td>
 </tbody></table>
