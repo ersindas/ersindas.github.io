@@ -10,7 +10,7 @@ author_profile: true
              <td style="padding:20px;width:30%;vertical-align:top">
               <img src='/files/robot.jpg' width="220">
                <br>
-                 <img src='/files/3DOF_v1-eps-converted-to.pdf' width="220">
+                 <img src='/files/3DOF_v1-eps-converted-to-1.png' width="220">
             </td>
             <td style="padding:20px;width:80%;vertical-align:middle">
               <a href="https://arxiv.org/pdf/2401.01881">
@@ -20,10 +20,10 @@ author_profile: true
              <strong>Ersin Daş</strong>, Joel W. Burdick
               <br>
               <br>
-              href="https://arxiv.org/pdf/2401.01881">Paper</a>
-              <p></p>
+<!--               href="https://arxiv.org/pdf/2401.01881">Paper</a>
+              <p></p> -->
               <p>This paper proposes a safety-critical control design approach for nonlinear control affine systems in the presence of matched and unmatched uncertainties. Our constructive framework couples control barrier function (CBF) theory with a new uncertainty estimator to ensure robust safety. The estimated uncertainty with a derived upper bound on the estimation error is used for synthesizing CBFs and safety-critical controllers via a quadratic program-based feedback control law that rigorously ensures robust safety while improving disturbance rejection performance. The method is extended to higher-order CBFs (HOCBFs) to achieve safety under unmatched uncertainty, which may cause relative degree differences with respect to control input and disturbances. We assume the relative degree difference is at most one, resulting in a second-order cone constraint. The proposed robust HOCBF method is demonstrated via a simulation of an uncertain elastic actuator control problem. Finally, we experimentally demonstrated the efficacy of our robust CBF framework on a tracked robot with slope-induced matched and unmatched perturbations.</p>
-              <center> <img src='/files/methods-eps-converted-to.pdf' width="420"> </center>
+              <center> <img src='/files/methods-eps-converted-to-1.png' width="420"> </center>
   </td>
 </tbody></table>
 
