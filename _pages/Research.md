@@ -135,11 +135,11 @@ author_profile: true
                  <img src='/files/CASELS.PNG' width="250">
             </td>
             <td style="padding:20px;width:80%;vertical-align:middle">
-              <a href="https://www.sciencedirect.com/science/article/pii/S0019057820305474">
-                  <papertitle><strong>Two degree of freedom robust data-driven fixed-order controller synthesis using convex optimization></papertitle>
+              <a href="https://arxiv.org/pdf/2310.05865">
+                  <papertitle><strong>Two degree of freedom robust data-driven fixed-order controller synthesis using convex optimization</strong></papertitle>
               </a>
               <br>
-             <strong>Ersin Daş</strong>, Selahattin Çağlar Başlamışlı
+             <strong>Ersin Daş*</strong>, Selahattin Çağlar Başlamışlı
               <br>
               <br>
               <p>Improvement of precise reference tracking performance of positioning systems is one of the essential objectives in feedback control design process. However, since the robustness of the feedback control system normally limits the fine positioning capacity, improvement in reference tracking performance with the desired robustness is difficult to be achieved. This paper proposes a new data-driven approach based on convex optimization to design two degree of freedom robust fixed-order $H_{infty}$ controller for reference tracking. Linear time-invariant systems represented by non-parametric frequency domain data are considered. A semi-definite programming algorithm is employed to compute an optimal uncertainty model and the corresponding nominal model. Then, a novel sufficient robust performance condition is developed using Nyquist stability theorem and $\mu$-synthesis methods for feedforward control systems. The proposed method allows formulating closed-loop model matching objective and robust performance conditions by convex functions. In addition, the presented two degree of freedom robust data-driven fixed-order controller design algorithm also can be directly applied to time-delay systems without any approximation and conservatism. The theoretical design approach is experimentally verified on position control of an electromechanical control actuation system of an air vehicle. To improve the positioning accuracy of the actuation system, the full-closed loop feedback structure is considered. Obtained experimental results verify the usefulness and efficiency of the proposed approach.</p>
