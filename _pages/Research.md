@@ -94,6 +94,13 @@ author_profile: true
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 </tbody></table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+             <td style="padding:20px;width:30%;vertical-align:top">
+              <img src='/files/europa.png' width="250">
+               <br> 
+               <br>
+               <br>
+               <br>
+                 <img src='/files/lander.png' width="250">
 <td style="padding:20px;width:80%;vertical-align:middle" markdown="1">
   <a href="https://arxiv.org/pdf/2409.10802">
       <papertitle><strong>Bayesian Optimal Experimental Design for Robot Kinematic Calibration</strong></papertitle>
