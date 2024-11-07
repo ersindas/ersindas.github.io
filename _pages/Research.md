@@ -33,3 +33,29 @@ author_profile: true
 <br> <!-- New line --> 
 <br> <!-- New line --> 
 <br> <!-- New line --> 
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+</tbody></table>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+             <td style="padding:20px;width:30%;vertical-align:top">
+              <img src='/files/zmp_4cdc-eps-converted-to-1.png' width="250">
+               <br> 
+               <br>
+               <br>
+               <br>
+                 <img src='/files/PSSf-eps-converted-to-1.png' width="250">
+            </td>
+            <td style="padding:20px;width:80%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2403.08916">
+                  <papertitle><strong>Rollover Prevention for Mobile Robots with Control Barrier Functions: Differentiator-Based Adaptation and Projection-to-State Safety</strong></papertitle>
+              </a>
+              <br>
+             <strong>Ersin Daş</strong>, Aaron D. Ames, Joel W. Burdick
+              <br>
+              <br>
+<!--               href="https://arxiv.org/pdf/2401.01881">Paper</a>
+              <p></p> -->
+              <p>This paper develops rollover prevention guarantees for mobile robots using control barrier function (CBF) theory, and demonstrates the method experimentally. We consider a safety measure based on a zero moment point condition through the lens of CBFs. However, these conditions depend on time-varying and noisy parameters. To address this issue, we present a differentiator-based safety-critical controller that estimates these parameters and pairs Input-to-State Stable (ISS) differentiator dynamics with CBFs to achieve rigorous safety guarantees. Additionally, to ensure safety in the presence of disturbances, we utilize a time-varying extension of Projection-to-State Safety (PSSf). The effectiveness of the proposed method is demonstrated via experiments on a tracked robot with a rollover potential on steep slopes.</p>
+              <center> <img src='/files/experiment-eps-converted-to-1.png' width="480"> </center>
+  </td>
+</tbody></table>
