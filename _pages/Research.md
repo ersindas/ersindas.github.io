@@ -108,7 +108,7 @@ author_profile: true
             </td>
             <td style="padding:20px;width:80%;vertical-align:middle">
               <a href="https://arxiv.org/pdf/2409.10802">
-                  <papertitle><strong>Bayesian Optimal Experimental Design for Robot Kinematic Calibration</strong></papertitle>
+                  <papertitle><strong>Robust, Explainable Autonomy in Icy Moon Missions></papertitle>
               </a>
               <br>
              <strong>Ersin Daş*</strong>, Thomas Touma, Joel W. Burdick
