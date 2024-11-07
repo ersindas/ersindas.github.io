@@ -99,7 +99,7 @@ author_profile: true
 </tbody></table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
              <td style="padding:20px;width:30%;vertical-align:top">
-              <img src='/files/europa.png' width="250">
+              <img src='/files/lander_europa.jpg' width="250">
                <br> 
                <br>
                <br>
@@ -136,7 +136,7 @@ author_profile: true
             </td>
             <td style="padding:20px;width:80%;vertical-align:middle">
               <a href="https://www.sciencedirect.com/science/article/pii/S0019057820305474">
-                  <papertitle><strong>Two degree of freedom robust data-driven fixed-order controller synthesis using convex optimization</strong></papertitle>
+                  <papertitle><strong>Robust data-driven fixed-order controller synthesis using convex optimization</strong></papertitle>
               </a>
               <br>
              <strong>Ersin Daş*</strong>, Selahattin Çağlar Başlamışlı
