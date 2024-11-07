@@ -101,7 +101,7 @@ author_profile: true
                <br>
                  <img src='/files/lander.png' width="250">
             </td>
-            <td style="padding:20px;width:80%;vertical-align:middle" markdown="1">
+            <td style="padding:20px;width:80%;vertical-align:middle">
               <a href="https://arxiv.org/pdf/2409.10802">
                   <papertitle><strong>Bayesian Optimal Experimental Design for Robot Kinematic Calibration</strong></papertitle>
               </a>
