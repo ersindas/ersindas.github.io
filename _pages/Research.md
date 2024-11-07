@@ -25,7 +25,7 @@ author_profile: true
                   <papertitle><strong>Robust Control Barrier Functions using Uncertainty Estimation with Application to Mobile Robots</strong></papertitle>
               </a>
               <br>
-             <strong>Ersin Daş</strong>, Joel W. Burdick
+             <strong>Ersin Daş*</strong>, Joel W. Burdick
               <br>
               <br>
               <p>This paper proposes a safety-critical control design approach for nonlinear control affine systems in the presence of matched and unmatched uncertainties. Our constructive framework couples control barrier function (CBF) theory with a new uncertainty estimator to ensure robust safety. The estimated uncertainty with a derived upper bound on the estimation error is used for synthesizing CBFs and safety-critical controllers via a quadratic program-based feedback control law that rigorously ensures robust safety while improving disturbance rejection performance. The method is extended to higher-order CBFs (HOCBFs) to achieve safety under unmatched uncertainty, which may cause relative degree differences with respect to control input and disturbances. We assume the relative degree difference is at most one, resulting in a second-order cone constraint. The proposed robust HOCBF method is demonstrated via a simulation of an uncertain elastic actuator control problem. Finally, we experimentally demonstrated the efficacy of our robust CBF framework on a tracked robot with slope-induced matched and unmatched perturbations.</p>
@@ -53,7 +53,7 @@ author_profile: true
                   <papertitle><strong>Rollover Prevention for Mobile Robots with Control Barrier Functions: Differentiator-Based Adaptation and Projection-to-State Safety</strong></papertitle>
               </a>
               <br>
-             <strong>Ersin Daş</strong>, Aaron D. Ames, Joel W. Burdick
+             <strong>Ersin Daş*</strong>, Aaron D. Ames, Joel W. Burdick
               <br>
               <br>
               <a href="https://youtu.be/Ekek2ikFU24">Video</a>
@@ -111,7 +111,7 @@ author_profile: true
                   <papertitle><strong>Bayesian Optimal Experimental Design for Robot Kinematic Calibration</strong></papertitle>
               </a>
               <br>
-             <strong>Ersin Daş</strong>, Thomas Touma, Joel W. Burdick
+             <strong>Ersin Daş*</strong>, Thomas Touma, Joel W. Burdick
               <br>
               <br>
               <p>This paper develops a Bayesian optimal experimental design for robot kinematic calibration on $\mathbb{S}^3 \!\times\! \mathbb{R}^3$. Our method builds upon a Gaussian process approach that incorporates a geometry-aware kernel based on Riemannian Mat\'ern kernels over $\mathbb{S}^3$. To learn the forward kinematics errors via Bayesian optimization with a Gaussian process, we define a geodesic distance-based objective function. Pointwise values of this function are sampled via noisy measurements taken through fiducial markers on the end-effector using a camera and computed pose with the nominal kinematics. The corrected Denavit-Hartenberg parameters are obtained using an efficient quadratic program that operates on the collected data sets. The effectiveness of the proposed method is demonstrated via simulations and calibration experiments on NASA's ocean world lander autonomy testbed (OWLAT).</p>
