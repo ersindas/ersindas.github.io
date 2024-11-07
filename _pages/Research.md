@@ -135,7 +135,7 @@ author_profile: true
                  <img src='/files/CASELS.PNG' width="250">
             </td>
             <td style="padding:20px;width:80%;vertical-align:middle">
-              <a href="https://arxiv.org/pdf/2310.05865">
+              <a href="https://www.sciencedirect.com/science/article/pii/S0019057820305474">
                   <papertitle><strong>Two degree of freedom robust data-driven fixed-order controller synthesis using convex optimization</strong></papertitle>
               </a>
               <br>
