@@ -53,6 +53,7 @@ author_profile: true
              <strong>Ersin Daş</strong>, Aaron D. Ames, Joel W. Burdick
               <br>
               <br>
+              <a href="https://youtu.be/Ekek2ikFU24">Video</a>
 <!--               href="https://arxiv.org/pdf/2401.01881">Paper</a>
               <p></p> -->
               <p>This paper develops rollover prevention guarantees for mobile robots using control barrier function (CBF) theory, and demonstrates the method experimentally. We consider a safety measure based on a zero moment point condition through the lens of CBFs. However, these conditions depend on time-varying and noisy parameters. To address this issue, we present a differentiator-based safety-critical controller that estimates these parameters and pairs Input-to-State Stable (ISS) differentiator dynamics with CBFs to achieve rigorous safety guarantees. Additionally, to ensure safety in the presence of disturbances, we utilize a time-varying extension of Projection-to-State Safety (PSSf). The effectiveness of the proposed method is demonstrated via experiments on a tracked robot with a rollover potential on steep slopes.</p>
