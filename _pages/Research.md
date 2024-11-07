@@ -65,7 +65,7 @@ author_profile: true
 </tbody></table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
              <td style="padding:20px;width:30%;vertical-align:top">
-              <img src='/files/mbcbf_hw_final_1.png' width="250">
+              <img src='/files/mbcbf_hw_final_1.PNG' width="250">
                <br> 
                <br>
                <br>
