@@ -77,7 +77,7 @@ author_profile: true
                   <papertitle><strong>A Learning-Based Framework for Safe Human-Robot Collaboration with Multiple Backup Control Barrier Functions</strong></papertitle>
               </a>
               <br>
-             <strong>Neil C. Janwani, Ersin Daş</strong>, Thomas Touma, Skylar X. Wei, Tamas G. Molnar, Joel W. Burdick
+             Neil C. Janwani*, Ersin Daş*</strong>, Thomas Touma, Skylar X. Wei, Tamas G. Molnar, Joel W. Burdick
               <br>
               <br>
               <a href="https://youtu.be/41Jh1GD_9Ok">Video</a>
