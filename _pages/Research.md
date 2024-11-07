@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /Research/
 author_profile: true
 ---
@@ -41,7 +41,7 @@ author_profile: true
                <br>
                <br>
                <br>
-                 <img src='/files/synchronized.gif' width="250">
+                 <img src='/files/zmp_4cdc-eps-converted-to-1.png' width="250">
             </td>
             <td style="padding:20px;width:80%;vertical-align:middle">
               <a href="https://arxiv.org/pdf/2403.08916">
