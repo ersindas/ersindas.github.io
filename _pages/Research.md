@@ -46,7 +46,7 @@ author_profile: true
                  <img src='/files/PSSf-eps-converted-to-1.png' width="250">
             </td>
             <td style="padding:20px;width:80%;vertical-align:middle">
-              <a href="https://arxiv.org/abs/2403.08916">
+              <a href="https://arxiv.org/pdf/2403.08916">
                   <papertitle><strong>Rollover Prevention for Mobile Robots with Control Barrier Functions: Differentiator-Based Adaptation and Projection-to-State Safety</strong></papertitle>
               </a>
               <br>
