@@ -10,7 +10,7 @@ author_profile: true
              <td style="padding:20px;width:30%;vertical-align:top">
               <img src='/files/robot.jpg' width="220">
                <br>
-                 <img src='/files/robot.jpg' width="220">
+                 <img src='/files/3DOF_v1-eps-converted-to.pdf' width="220">
             </td>
             <td style="padding:20px;width:80%;vertical-align:middle">
               <a href="https://arxiv.org/pdf/2401.01881">
