@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.
+ <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.
 
 ## Preprints
 
