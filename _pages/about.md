@@ -13,6 +13,8 @@ I conduct research on robust control systems, state estimation, system identific
 
 News
 ======
+**[November 2024]** We submitted a paper to the European Control Conference (ECC) 2025.
+
 **[October 2024]** We submitted a paper to the American Control Conference (ACC) 2025.
 
 **[September 2024]** We submitted a paper to the IEEE International Conference on Robotics and Automation (ICRA) 2025. [arXiv link](https://arxiv.org/pdf/2409.10802)
