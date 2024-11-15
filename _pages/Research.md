@@ -99,15 +99,10 @@ author_profile: true
 </tbody></table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
              <td style="padding:20px;width:30%;vertical-align:top">
-              <img src='/files/europa.png' width="150">
+              <img src='/files/europa.png' width="250">
                <br> 
                <br>
-             <img src='/files/robot_g.gif' width="250">
-               <br> 
-               <br>
-            <img src='/files/robot_p.gif' width="250">
-               <br> 
-               <br>
+             <img src='/files/lander.png' width="250">
             </td>
             <td style="padding:20px;width:80%;vertical-align:middle">
               <a href="https://arxiv.org/pdf/2409.10802">
