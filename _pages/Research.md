@@ -102,7 +102,7 @@ author_profile: true
               <img src='/files/europa.png' width="250">
                <br> 
                <br>
-             <img src='/files/lander.png' width="250">
+             <img src='/files/lander_europa.jpg' width="250">
             </td>
             <td style="padding:20px;width:80%;vertical-align:middle">
               <a href="https://arxiv.org/pdf/2409.10802">
