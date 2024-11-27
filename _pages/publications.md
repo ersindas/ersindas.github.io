@@ -12,7 +12,7 @@ author_profile: true
 1. **E. Daş**, J. W. Burdick, *Robust Control Barrier Functions using Uncertainty Estimation with Application to Mobile Robots*, *arXiv preprint* arXiv:2401.01881, 2024. [Paper](https://arxiv.org/pdf/2401.01881)
 2. **E. Daş**, J. W. Burdick, *Bayesian Optimal Experimental Design for Robot Kinematic Calibration*, *arXiv preprint* arXiv:2409.10802, 2024. [Paper](https://arxiv.org/pdf/2409.10802)
 3. X. Tan, **E. Daş**, A. D. Ames, and J. W. Burdick, *Zero-order Control Barrier Functions for Sampled-Data Systems with State and Input Dependent Safety Constraints*, *arXiv preprint* arXiv:2411.17079, 2024. [Paper](https://arxiv.org/pdf/2411.17079)
-4. Y. Kim, **E. Daş**, J. Kim, A. D. Ames, J. W. Burdick, and C. Sloth *Minimizing Conservatism in Safety-Critical Control for Input-Delayed Systems via Adaptive Delay Estimation*, *arXiv preprint* arXiv:2411.17277, 2024. [Paper](https://arxiv.org/pdf/2411.17277)
+4. Y. Kim, **E. Daş**, J. Kim, A. D. Ames, J. W. Burdick, and C. Sloth, *Minimizing Conservatism in Safety-Critical Control for Input-Delayed Systems via Adaptive Delay Estimation*, *arXiv preprint* arXiv:2411.17277, 2024. [Paper](https://arxiv.org/pdf/2411.17277)
 
 ## Journal Papers
 
