@@ -13,9 +13,9 @@ I conduct research on robust control systems, state estimation, system identific
 
 News
 ======
-**[November 2024]** We submitted a paper to the European Control Conference (ECC) 2025.
+**[November 2024]** We submitted a paper to the European Control Conference (ECC) 2025. [arXiv link](https://arxiv.org/pdf/2411.17277)
 
-**[October 2024]** We submitted a paper to the American Control Conference (ACC) 2025.
+**[October 2024]** We submitted a paper to the American Control Conference (ACC) 2025. [arXiv link](https://arxiv.org/pdf/2411.17079), [code link](https://github.com/ersindas/Zero-order-CBFs)
 
 **[September 2024]** We submitted a paper to the IEEE International Conference on Robotics and Automation (ICRA) 2025. [arXiv link](https://arxiv.org/pdf/2409.10802)
 
@@ -23,7 +23,7 @@ News
 
 **[May 2024]** I visited [Hatanaka Lab](https://hatanakalab.wixsite.com/website) at the Tokyo Institute of Technology.
 
-**[May 2024]** We presented our paper at the IEEE International Conference on Robotics and Automation (ICRA) 2024 in Yokohama, Japan. [arXiv link](https://arxiv.org/pdf/2310.05865) [video link](https://youtu.be/41Jh1GD_9Ok)
+**[May 2024]** We presented our paper at the IEEE International Conference on Robotics and Automation (ICRA) 2024 in Yokohama, Japan. [arXiv link](https://arxiv.org/pdf/2310.05865), [video link](https://youtu.be/41Jh1GD_9Ok)
 
 **[January 2024]** We submitted a paper to the IEEE Transactions on Automatic Control (TAC). [arXiv link](https://arxiv.org/pdf/2401.01881)
 
