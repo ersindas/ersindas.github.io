@@ -17,7 +17,7 @@ News
 
 **[November 2024]** We submitted a paper to the European Control Conference (ECC) 2025. [arXiv](https://arxiv.org/pdf/2411.17277)
 
-**[October 2024]** We submitted a paper to the American Control Conference (ACC) 2025. [arXiv](https://arxiv.org/pdf/2411.17079), [code](https://github.com/ersindas/Zero-order-CBFs)
+**[October 2024]** We submitted a paper to the American Control Conference (ACC) 2025. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2411.17079), [code](https://github.com/ersindas/Zero-order-CBFs)
 
 **[September 2024]** We submitted a paper to the IEEE International Conference on Robotics and Automation (ICRA) 2025. [arXiv](https://arxiv.org/pdf/2409.10802)
 
