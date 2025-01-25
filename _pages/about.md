@@ -13,6 +13,8 @@ I conduct research on robust control systems, state estimation, system identific
 
 News
 ======
+**[January 2025]** Our paper, "Robust Control Barrier Functions using Uncertainty Estimation with Application to Mobile Robots," was accepted by Transactions on Automatic Control (TAC). [arXiv](https://arxiv.org/pdf/2401.01881)
+
 **[December 2024]** I am pleased to share that I have joined the Early Career Advisory Board of [Control Engineering Practice (CEP)](https://www.sciencedirect.com/journal/control-engineering-practice), a distinguished journal for advancing the practical applications of control theory. I look forward to your outstanding submissions.
 
 **[November 2024]** We submitted a paper to the European Control Conference (ECC) 2025. [arXiv](https://arxiv.org/pdf/2411.17277)
@@ -27,7 +29,7 @@ News
 
 **[May 2024]** We presented our paper at the IEEE International Conference on Robotics and Automation (ICRA) 2024 in Yokohama, Japan. [arXiv](https://arxiv.org/pdf/2310.05865), [video](https://youtu.be/41Jh1GD_9Ok)
 
-**[January 2024]** We submitted a paper to the IEEE Transactions on Automatic Control (TAC). [arXiv](https://arxiv.org/pdf/2401.01881)
+**[January 2024]** We submitted a paper to the IEEE Transactions on Automatic Control (TAC). <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2401.01881)
 
 **[May 2023]** I presented our paper at the IEEE International Conference on Robotics and Automation (ICRA) 2023 in London, United Kingdom. [arXiv](https://arxiv.org/pdf/2303.03658)
 
