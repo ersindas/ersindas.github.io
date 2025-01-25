@@ -14,7 +14,7 @@ author_profile: true
 
 ## Journal Papers
 
-1. **E. Daş**, J. W. Burdick, *Robust Control Barrier Functions using Uncertainty Estimation with Application to Mobile Robots*, *IEEE Transactions on Automatic Control (TAC)*, 2024. [Paper](https://arxiv.org/pdf/2401.01881)
+1. **E. Daş**, J. W. Burdick, *Robust Control Barrier Functions using Uncertainty Estimation with Application to Mobile Robots*, *IEEE Transactions on Automatic Control (TAC)*, 2025. [Paper](https://arxiv.org/pdf/2401.01881)
 2. **E. Daş**, A. D. Ames, and J. W. Burdick, *Rollover Prevention for Mobile Robots With Control Barrier Functions: Differentiator-Based Adaptation and Projection-to-State Safety*, *IEEE Control Systems Letters (L-CSS)*, 2024. [Paper](https://arxiv.org/pdf/2403.08916)
 3. A. Alan, T. G. Molnar, **E. Daş**, A. D. Ames, and G. Orosz, *Disturbance Observers for Robust Safety-Critical Control with Control Barrier Functions*, *IEEE Control Systems Letters*, 2022. [Paper](https://arxiv.org/pdf/2209.08123)
 4. **E. Daş**, *Combined Design of Robust Controller and Disturbance Observer in a Fixed-Order $$\mathcal{H}_\infty$$ Control Framework*, *Mechatronics*, 2022. [Paper](https://www.sciencedirect.com/science/article/pii/S0957415822001301)
