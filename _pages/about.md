@@ -21,7 +21,7 @@ News
 
 **[October 2024]** We submitted a paper to the American Control Conference (ACC) 2025. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2411.17079), [code](https://github.com/ersindas/Zero-order-CBFs)
 
-**[September 2024]** We submitted a paper to the IEEE International Conference on Robotics and Automation (ICRA) 2025. [arXiv](https://arxiv.org/pdf/2409.10802)
+**[September 2024]** We submitted a paper to the IEEE International Conference on Robotics and Automation (ICRA) 2025. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2409.10802)
 
 **[July 2024]** Our paper, "Rollover Prevention for Mobile Robots With Control Barrier Functions: Differentiator-Based Adaptation and Projection-to-State Safety," was accepted by IEEE Control Systems Letters (L-CSS) and IEEE Conference on Decision and Control (CDC) 2024. [arXiv](https://arxiv.org/pdf/2403.08916)
 
