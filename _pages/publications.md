@@ -26,8 +26,8 @@ author_profile: true
 
 ## Conference Papers
 
-1. **E. Daş**, J. W. Burdick, *Bayesian Optimal Experimental Design for Robot Kinematic Calibration*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2025. [Paper](https://arxiv.org/pdf/2409.10802)
-12. X. Tan, **E. Daş**, A. D. Ames, and J. W. Burdick, *Zero-order Control Barrier Functions for Sampled-Data Systems with State and Input Dependent Safety Constraints*, *American Control Conference (ACC)*, 2025. [Paper](https://arxiv.org/pdf/2411.17079), [code](https://github.com/ersindas/Zero-order-CBFs)
+1. **E. Daş**, T. Touma, J. W. Burdick, *Bayesian Optimal Experimental Design for Robot Kinematic Calibration*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2025. [Paper](https://arxiv.org/pdf/2409.10802)
+2. X. Tan, **E. Daş**, A. D. Ames, and J. W. Burdick, *Zero-order Control Barrier Functions for Sampled-Data Systems with State and Input Dependent Safety Constraints*, *American Control Conference (ACC)*, 2025. [Paper](https://arxiv.org/pdf/2411.17079), [code](https://github.com/ersindas/Zero-order-CBFs)
 3. N. C. Janwani, **E. Daş**, T. Touma, S. X. Wei, T. G. Molnar, and J. W. Burdick, *A Learning-Based Framework for Safe Human-Robot Collaboration with Multiple Backup Control Barrier Functions*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2024. [Paper](https://arxiv.org/pdf/2310.05865) [Video](https://youtu.be/41Jh1GD_9Ok)
 4. **E. Daş**, R. M. Murray, *Robust Safe Control Synthesis with Disturbance Observer-Based Control Barrier Functions*, *IEEE 61st Conference on Decision and Control (CDC)*, 2022. [Paper](https://arxiv.org/pdf/2201.05758)
 5. **E. Daş**, J. W. Burdick, *An Active Learning Based Robot Kinematic Calibration Framework Using Gaussian Processes*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2023. [Paper](https://arxiv.org/pdf/2303.03658)
