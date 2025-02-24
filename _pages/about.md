@@ -13,6 +13,8 @@ I conduct research on robust control systems, state estimation, system identific
 
 News
 ======
+**[February 2025]** We submitted a paper to the IEEE Transactions on Field Robotics.
+
 **[January 2025]** Our paper, "Robust Control Barrier Functions using Uncertainty Estimation with Application to Mobile Robots," was accepted by IEEE Transactions on Automatic Control (TAC). [arXiv](https://arxiv.org/pdf/2401.01881), [IEEE](https://ieeexplore.ieee.org/document/10872802)
 
 **[December 2024]** I am pleased to share that I have joined the Early Career Advisory Board of [Control Engineering Practice (CEP)](https://www.sciencedirect.com/journal/control-engineering-practice), a distinguished journal for advancing the practical applications of control theory. I look forward to your outstanding submissions.
