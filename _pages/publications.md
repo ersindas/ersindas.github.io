@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints/Submitted
 
-1. T. Thouma, **E. Daş**, E. Tevere, M. Feather, K. Kolcio, M. Prather, A. Candela, A. Goel, E. Kramer, H. Nayar, L. Fesq, J. W. Burdick, *AI Space Cortex*, *IEEE Transactions on Field Robotics*, 2025.
+1. T. Touma, **E. Daş**, E. Tevere, M. Feather, K. Kolcio, M. Prather, A. Candela, A. Goel, E. Kramer, H. Nayar, L. Fesq, J. W. Burdick, *AI Space Cortex*, *IEEE Transactions on Field Robotics*, 2025.
 
 2. Y. Kim, **E. Daş**, J. Kim, A. D. Ames, J. W. Burdick, and C. Sloth, *Minimizing Conservatism in Safety-Critical Control for Input-Delayed Systems via Adaptive Delay Estimation*, *arXiv preprint* arXiv:2411.17277, 2024. [Paper](https://arxiv.org/pdf/2411.17277)
 
