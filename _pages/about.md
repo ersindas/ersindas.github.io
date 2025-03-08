@@ -19,7 +19,7 @@ News
 
 **[December 2024]** I am pleased to share that I have joined the Early Career Advisory Board of [Control Engineering Practice (CEP)](https://www.sciencedirect.com/journal/control-engineering-practice), a distinguished journal for advancing the practical applications of control theory. I look forward to your outstanding submissions.
 
-**[November 2024]** We submitted a paper to the European Control Conference (ECC) 2025. [arXiv](https://arxiv.org/pdf/2411.17277)
+**[November 2024]** We submitted a paper to the European Control Conference (ECC) 2025. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2411.17277)
 
 **[October 2024]** We submitted a paper to the American Control Conference (ACC) 2025. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2411.17079), [code](https://github.com/ersindas/Zero-order-CBFs)
 
