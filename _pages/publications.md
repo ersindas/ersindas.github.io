@@ -9,7 +9,8 @@ author_profile: true
 
 ## Preprints/Submitted
 
-1. T. Touma, **E. Daş**, E. Tevere, M. Feather, K. Kolcio, M. Prather, A. Candela, A. Goel, E. Kramer, H. Nayar, L. Fesq, and J. W. Burdick, *AI Space Cortex*, *IEEE Transactions on Field Robotics*, 2025.
+1. T. Touma, **E. Daş**, E. Tevere, M. Feather, K. Kolcio, M. Prather, A. Candela, A. Goel, E. Kramer, H. Nayar, L. Fesq, and J. W. Burdick, *AI Space Cortex*, *IEEE Control Systems Letters*, 2025.
+2. D. E.J. van Wijk, **E. Daş**, A. Alan, S. Coogan, T. G. Molnar, J. W. Burdick, M. Majji, and K. L. Hobbs, *Robust Backup Control Barrier Functions*, *IEEE Transactions on Field Robotics*, 2025.
 
 ## Journal Papers
 
