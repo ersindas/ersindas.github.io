@@ -13,6 +13,8 @@ I conduct research on robust control systems, state estimation, system identific
 
 News
 ======
+**[March 2025]** We submitted a paper to the IEEE Control Systems Letters (L-CSS) and IEEE Conference on Decision and Control (CDC) 2025.
+
 **[February 2025]** We submitted a paper to the IEEE Transactions on Field Robotics.
 
 **[January 2025]** Our paper, "Robust Control Barrier Functions using Uncertainty Estimation with Application to Mobile Robots," was accepted by IEEE Transactions on Automatic Control (TAC). [arXiv](https://arxiv.org/pdf/2401.01881), [IEEE](https://ieeexplore.ieee.org/document/10872802)
