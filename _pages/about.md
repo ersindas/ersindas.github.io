@@ -13,6 +13,8 @@ I conduct research on robust control systems, state estimation, system identific
 
 News
 ======
+**[April 2025]** I will give a seminar on Uncertainty-Aware Safe Autonomy for Real-World Systems to the Dynamics & Control Research Group of the University of Bristol, UK, on Wednesday, April 16th, at 6:00 a.m. (PST).
+
 **[March 2025]** We submitted a paper to the IEEE Control Systems Letters (L-CSS) and IEEE Conference on Decision and Control (CDC) 2025. [arXiv](https://arxiv.org/pdf/2503.15734)
 
 **[February 2025]** We submitted a paper to the IEEE Transactions on Field Robotics.
