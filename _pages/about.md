@@ -9,11 +9,11 @@ redirect_from:
 
 I am a postdoctoral researcher in the [Burdick group](https://robotics.caltech.edu/wiki/index.php/Robotics) at [Caltech](https://www.mce.caltech.edu/people/ersindas) and a member of the [Center for Autonomous Systems and Technologies](https://cast.caltech.edu/) (CAST). At Caltech, I have the privilege of working closely with Professors [Joel W. Burdick](https://www.eas.caltech.edu/people/jburdick), [Richard M. Murray](https://murray.cds.caltech.edu/Main_Page), and [Aaron D. Ames](http://ames.caltech.edu/). Currently, I am collaborating with the Ocean World Lander Autonomy team at the [Jet Propulsion Laboratory - NASA](https://www-robotics.jpl.nasa.gov/) to investigate safe autonomous lander operations on ocean worlds in the Solar System, such as Europa and Enceladus.
 
-I conduct research on robust control systems, state estimation, system identification, and machine learning techniques in robotics to address challenges posed by dynamic uncertainties in feedback control implementations.
+I conduct research on robust control systems, state estimation, system identification, and machine learning techniques in robotics to address challenges posed by dynamic uncertainties in feedback control implementations. 
 
 News
 ======
-**[April 18, 2025]** I will present our research on *Robust Control Barrier Functions* at the 45th Southern California Control Workshop, held at the University of California, San Diego, on Friday, April 18th.
+**[April 18, 2025]** I will present our research on *Robust Control Barrier Functions* at the 45th Southern California Control Workshop, held at the University of California, San Diego, on Friday, April 18th. [Link](http://terrano.ucsd.edu/jorge/sccw/index.html)
 
 **[April 16, 2025]** I will give a seminar on *Uncertainty-Aware Safe Autonomy for Real-World Systems* to the Dynamics & Control Research Group of the University of Bristol, UK, on Wednesday, April 16th, at 6:00 a.m. (PST). This is a hybrid meeting [Zoom link](https://bristol-ac-uk.zoom.us/j/96987844132?pwd=aUNnx6lfS62ee1R4WKpYcPUvfM659k.1) (Meeting ID: 969 8784 4132, Passcode: 246136).
 
