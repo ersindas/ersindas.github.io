@@ -13,7 +13,7 @@ I conduct research on robust control systems, state estimation, system identific
 
 News
 ======
-**[April 17, 2025]** I will present our research on *Robust Control Barrier Functions* at the 45th Southern California Control Workshop, held at the University of California, San Diego, on Thursday, April 17th.
+**[April 18, 2025]** I will present our research on *Robust Control Barrier Functions* at the 45th Southern California Control Workshop, held at the University of California, San Diego, on Friday, April 18th.
 
 **[April 16, 2025]** I will give a seminar on *Uncertainty-Aware Safe Autonomy for Real-World Systems* to the Dynamics & Control Research Group of the University of Bristol, UK, on Wednesday, April 16th, at 6:00 a.m. (PST). This is a hybrid meeting [Zoom link](https://bristol-ac-uk.zoom.us/j/96987844132?pwd=aUNnx6lfS62ee1R4WKpYcPUvfM659k.1) (Meeting ID: 969 8784 4132, Passcode: 246136).
 
