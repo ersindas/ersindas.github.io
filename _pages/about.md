@@ -15,7 +15,7 @@ News
 ======
 **[April 18, 2025]** I will present our research on *Robust Control Barrier Functions* at the 45th Southern California Control Workshop, held at the University of California, San Diego, on Friday, April 18th. [Link](http://terrano.ucsd.edu/jorge/sccw/index.html)
 
-**[April 16, 2025]** I will give a seminar on *Uncertainty-Aware Safe Autonomy for Real-World Systems* to the Dynamics & Control Research Group of the University of Bristol, UK, on Wednesday, April 16th, at 6:00 a.m. (PST). This is a hybrid meeting [Zoom link](https://bristol-ac-uk.zoom.us/j/96987844132?pwd=aUNnx6lfS62ee1R4WKpYcPUvfM659k.1) (Meeting ID: 969 8784 4132, Passcode: 246136).
+**[April 16, 2025]** I gave a seminar on *Uncertainty-Aware Safe Autonomy for Real-World Systems* to the Dynamics & Control Research Group of the University of Bristol, UK.
 
 **[March 2025]** We submitted a paper to the IEEE Control Systems Letters (L-CSS) and IEEE Conference on Decision and Control (CDC) 2025. [arXiv](https://arxiv.org/pdf/2503.15734)
 
