@@ -17,7 +17,7 @@ News
 
 **[April 16, 2025]** I gave a seminar on *Uncertainty-Aware Safe Autonomy for Real-World Systems* to the Dynamics & Control Research Group of the University of Bristol, UK.
 
-**[March 2025]** We submitted a paper to the IEEE Control Systems Letters (L-CSS) and IEEE Conference on Decision and Control (CDC) 2025. [arXiv](https://arxiv.org/pdf/2503.15734)
+**[March 2025]** We submitted a paper to the IEEE Conference on Decision and Control (CDC) 2025. [arXiv](https://arxiv.org/pdf/2503.15734)
 
 **[February 2025]** We submitted a paper to the IEEE Transactions on Field Robotics.
 
