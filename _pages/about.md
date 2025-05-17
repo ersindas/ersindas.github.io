@@ -13,6 +13,8 @@ I conduct research on robust control systems, state estimation, system identific
 
 News
 ======
+**[May 20, 2025]** I will be presenting our paper, "Bayesian Optimal Experimental Design for Robot Kinematic Calibration," at the IEEE International Conference on Robotics and Automation (ICRA) 2025, on Tuesday, May 20th, at 10:20 - 10:25 in 314. [arXiv](https://arxiv.org/pdf/2409.10802)
+
 **[April 18, 2025]** I presented our research on *Robust Control Barrier Functions* at the 45th Southern California Control Workshop, held at the University of California, San Diego, on Friday, April 18th. [Link](http://terrano.ucsd.edu/jorge/sccw/index.html)
 
 **[April 16, 2025]** I gave a seminar on *Uncertainty-Aware Safe Autonomy for Real-World Systems* to the Dynamics & Control Research Group of the University of Bristol, UK.
