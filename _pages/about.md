@@ -16,7 +16,7 @@ News
 **[May 20, 2025]** I presented our paper, "Bayesian Optimal Experimental Design for Robot Kinematic Calibration," at the IEEE International Conference on Robotics and Automation (ICRA) 2025 in Atlanta, USA. [arXiv](https://arxiv.org/pdf/2409.10802)
 
 
-<div style="border: 1px solid #e66100; background-color: #fff7f0; padding: 0.8em 1.2em; margin: 1em 0 1.5em 0; border-radius: 6px;">
+<div style="border: 1px solid #e66100; background-color: #fff7f0; padding: 1.0em 1.0em; margin: 1em 0 1.0em 0; border-radius: 6px;">
   <strong style="color:#e66100; font-size: 1.05em;">My Highlights from ICRA 2025:</strong><br>
   • Strong presence of walking robots and grippers.<br>
   • Planning remains a core focus in the robotics field.<br>
@@ -25,6 +25,7 @@ News
   • Looking forward to attending with my PhD students next year, so stay tuned for more updates!
 </div>
 
+<br>
 
 **[April 18, 2025]** I presented our research on *Robust Control Barrier Functions* at the 45th Southern California Control Workshop, held at the University of California, San Diego, on Friday, April 18th. [Link](http://terrano.ucsd.edu/jorge/sccw/index.html)
 
