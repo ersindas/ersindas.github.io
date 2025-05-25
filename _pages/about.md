@@ -16,7 +16,7 @@ News
 **[May 20, 2025]** I presented our paper, "Bayesian Optimal Experimental Design for Robot Kinematic Calibration," at the IEEE International Conference on Robotics and Automation (ICRA) 2025 in Atlanta, USA. [arXiv](https://arxiv.org/pdf/2409.10802)
 
 <div style="border: 1px solid #e66100; background-color: #fff7f0; padding: 0.5em 0.5em; margin: 0.0em 0 0.0em 0; border-radius: 6px;">
-  <strong style="color:#e66100; font-size: 1.05em; text-decoration: underline;">My Highlights from ICRA 2025:</strong><br>
+  <strong style="color:#e66100; font-size: 1.05em; text-decoration: underline;">My Takeaways and Observations from ICRA 2025:</strong><br>
   • Strong presence of walking robots and grippers.<br>
   • Planning remains a core focus in robotics.<br>
   • Strong interest in robust safety-critical control methods.<br>
