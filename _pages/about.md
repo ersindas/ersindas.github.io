@@ -21,7 +21,7 @@ News
   • Planning remains a core focus in robotics.<br>
   • Strong interest in robust safety-critical control methods.<br>
   • Growing need for robust state estimation methods.<br>
-  • Looking forward to attending with my students next year, stay tuned for updates!
+  <span style="color:#005a9c;">Looking forward to attending with my students next year — stay tuned for updates!</span>
 </div>
 
 <p style="margin-bottom:1.5em;"></p>
