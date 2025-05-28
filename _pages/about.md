@@ -13,6 +13,11 @@ I conduct research on robust control systems, state estimation, system identific
 
 News
 ======
+
+<div style="border: 2px solid #CC0000; background-color:#fff5f5; padding:0.75em; margin:0.5em 0; border-radius:6px;">
+  <strong style="color:#CC0000;">[May 28, 2025]</strong> I am exited to share that I will be joining the <em><a href="https://www.iit.edu/mmae" style="color:#CC0000; text-decoration: underline;">Department of Mechanical, Materials, and Aerospace Engineering</a></em> at the <strong>Illinois Institute of Technology</strong> as an <strong>Assistant Professor</strong> starting August 2025.
+</div>
+
 **[May 20, 2025]** I presented our paper, "Bayesian Optimal Experimental Design for Robot Kinematic Calibration," at the IEEE International Conference on Robotics and Automation (ICRA) 2025 in Atlanta, USA. [arXiv](https://arxiv.org/pdf/2409.10802)
 
 <div style="border: 1px solid #e66100; background-color: #fff7f0; padding: 0.5em 0.5em; margin: 0.0em 0 0.0em 0; border-radius: 6px;">
