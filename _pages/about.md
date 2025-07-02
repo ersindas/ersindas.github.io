@@ -39,7 +39,7 @@ News
 
 **[March 2025]** We submitted a paper to the IEEE Conference on Decision and Control (CDC) 2025. [arXiv](https://arxiv.org/pdf/2503.15734)
 
-**[February 2025]** We submitted a paper to the IEEE Transactions on Field Robotics.
+**[February 2025]** We submitted a paper to the IEEE Transactions on Field Robotics. <span style="color:green;">(Accepted)</span>
 
 **[January 2025]** Our paper, "Robust Control Barrier Functions using Uncertainty Estimation with Application to Mobile Robots," was accepted by IEEE Transactions on Automatic Control (TAC). [arXiv](https://arxiv.org/pdf/2401.01881), [IEEE](https://ieeexplore.ieee.org/document/10872802)
 
