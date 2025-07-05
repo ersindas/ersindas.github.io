@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome!
 
 I will be joining the <em><a href="https://www.iit.edu/mmae" style="color:#CC0000; text-decoration: underline;">Department of Mechanical, Materials, and Aerospace Engineering</a></em> at the <strong>Illinois Institute of Technology</strong> as an <strong>Assistant Professor</strong> in August 2025.
 
