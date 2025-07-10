@@ -26,9 +26,9 @@ News
 </div>
 
 
-**[July 9, 2025]** Our paper, "AI Space Cortex: An Experimental System for Future Era Space Exploration," was accepted by Transactions on Field Robotics (TFR). [arXiv](https://arxiv.org/pdf/2507.06574)
+**[July 9, 2025]** Our paper, "AI Space Cortex: An Experimental System for Future Era Space Exploration," was accepted by IEEE Transactions on Field Robotics (TFR). [arXiv](https://arxiv.org/pdf/2507.06574)
 
-**[July 8, 2023]** We presented our paper at the American Control Conference (ACC) 2025 in Denver, Colorado. [arXiv](https://arxiv.org/pdf/2411.17079)
+**[July 8, 2025]** We presented our paper at the American Control Conference (ACC) 2025 in Denver, Colorado. [arXiv](https://arxiv.org/pdf/2411.17079)
 
 **[May 20, 2025]** I presented our paper, "Bayesian Optimal Experimental Design for Robot Kinematic Calibration," at the IEEE International Conference on Robotics and Automation (ICRA) 2025 in Atlanta, USA. [arXiv](https://arxiv.org/pdf/2409.10802)
 
@@ -49,7 +49,7 @@ News
 
 **[March 2025]** We submitted a paper to the IEEE Conference on Decision and Control (CDC) 2025. [arXiv](https://arxiv.org/pdf/2503.15734)
 
-**[February 2025]** We submitted a paper to the IEEE Transactions on Field Robotics. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2507.06574)
+**[February 2025]** We submitted a paper to IEEE Transactions on Field Robotics. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2507.06574)
 
 **[January 2025]** Our paper, "Robust Control Barrier Functions using Uncertainty Estimation with Application to Mobile Robots," was accepted by IEEE Transactions on Automatic Control (TAC). [arXiv](https://arxiv.org/pdf/2401.01881), [IEEE](https://ieeexplore.ieee.org/document/10872802)
 
@@ -67,7 +67,7 @@ News
 
 **[May 2024]** We presented our paper at the IEEE International Conference on Robotics and Automation (ICRA) 2024 in Yokohama, Japan. [arXiv](https://arxiv.org/pdf/2310.05865), [video](https://youtu.be/41Jh1GD_9Ok)
 
-**[January 2024]** We submitted a paper to the IEEE Transactions on Automatic Control (TAC). <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2401.01881)
+**[January 2024]** We submitted a paper to IEEE Transactions on Automatic Control (TAC). <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2401.01881)
 
 **[May 2023]** I presented our paper at the IEEE International Conference on Robotics and Automation (ICRA) 2023 in London, United Kingdom. [arXiv](https://arxiv.org/pdf/2303.03658)
 
