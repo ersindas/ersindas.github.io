@@ -25,18 +25,22 @@ News
   </span>
 </div>
 
+**[July 9, 2025]** Our paper, "AI Space Cortex: An Experimental System for Future Era Space Exploration," was accepted by Transactions on Field Robotics (TFR). [arXiv](https://arxiv.org/pdf/2507.06574)
+
+**[July 8, 2023]** We presented our paper at the American Control Conference (ACC) 2025 in Denver, Colorado. [arXiv](https://arxiv.org/pdf/2411.17079)
+
 **[May 20, 2025]** I presented our paper, "Bayesian Optimal Experimental Design for Robot Kinematic Calibration," at the IEEE International Conference on Robotics and Automation (ICRA) 2025 in Atlanta, USA. [arXiv](https://arxiv.org/pdf/2409.10802)
 
-<div style="border: 1px solid #e66100; background-color: #fff7f0; padding: 0.5em 0.5em; margin: 0.0em 0 0.0em 0; border-radius: 6px;">
+<!-- <div style="border: 1px solid #e66100; background-color: #fff7f0; padding: 0.5em 0.5em; margin: 0.0em 0 0.0em 0; border-radius: 6px;">
   <strong style="color:#e66100; font-size: 1.05em; text-decoration: underline;">My Takeaways and Observations from ICRA 2025:</strong><br>
   • Strong presence of walking robots and grippers.<br>
   • Planning remains a core focus in robotics.<br>
   • Strong interest in robust safety-critical control methods.<br>
   • Growing need for robust state estimation methods.<br>
   <span style="color:#005a9c;">Looking forward to attending with my students next year, stay tuned for updates!</span>
-</div>
+</div> 
 
-<p style="margin-bottom:1.5em;"></p>
+<p style="margin-bottom:1.5em;"></p> -->
 
 **[April 18, 2025]** I presented our research on *Robust Control Barrier Functions* at the 45th Southern California Control Workshop, held at the University of California, San Diego, on Friday, April 18th. [Link](http://terrano.ucsd.edu/jorge/sccw/index.html)
 
@@ -44,7 +48,7 @@ News
 
 **[March 2025]** We submitted a paper to the IEEE Conference on Decision and Control (CDC) 2025. [arXiv](https://arxiv.org/pdf/2503.15734)
 
-**[February 2025]** We submitted a paper to the IEEE Transactions on Field Robotics. <span style="color:green;">(Accepted)</span>
+**[February 2025]** We submitted a paper to the IEEE Transactions on Field Robotics. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2507.06574)
 
 **[January 2025]** Our paper, "Robust Control Barrier Functions using Uncertainty Estimation with Application to Mobile Robots," was accepted by IEEE Transactions on Automatic Control (TAC). [arXiv](https://arxiv.org/pdf/2401.01881), [IEEE](https://ieeexplore.ieee.org/document/10872802)
 
