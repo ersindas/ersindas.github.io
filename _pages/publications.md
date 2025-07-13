@@ -12,7 +12,7 @@ author_profile: true
 
 ## Journal Papers
 1. T. Touma, **E. Daş**, E. Tevere, M. Feather, K. Kolcio, M. Prather, A. Candela, A. Goel, E. Kramer, H. Nayar, L. Fesq, and J. W. Burdick, *AI Space Cortex: An Experimental System for 
-Future Era Space Exploration*, *IEEE Transactions on Field Robotics*, 2025.
+Future Era Space Exploration*, *IEEE Transactions on Field Robotics*, 2025. [Paper](https://arxiv.org/pdf/2507.06574)
 2. **E. Daş**, J. W. Burdick, *Robust Control Barrier Functions using Uncertainty Estimation with Application to Mobile Robots*, *IEEE Transactions on Automatic Control (TAC)*, 2025. [Paper](https://arxiv.org/pdf/2401.01881)
 3. **E. Daş**, A. D. Ames, and J. W. Burdick, *Rollover Prevention for Mobile Robots With Control Barrier Functions: Differentiator-Based Adaptation and Projection-to-State Safety*, *IEEE Control Systems Letters (L-CSS)*, 2024. [Paper](https://arxiv.org/pdf/2403.08916)
 4. A. Alan, T. G. Molnar, **E. Daş**, A. D. Ames, and G. Orosz, *Disturbance Observers for Robust Safety-Critical Control with Control Barrier Functions*, *IEEE Control Systems Letters*, 2022. [Paper](https://arxiv.org/pdf/2209.08123)
