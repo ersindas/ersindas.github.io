@@ -26,7 +26,7 @@ News
 </div>
 
 
-**[July 9, 2025]** Our paper, "AI Space Cortex: An Experimental System for Future Era Space Exploration," was accepted by IEEE Transactions on Field Robotics (TFR). [arXiv](https://arxiv.org/pdf/2507.06574)
+**[July 9, 2025]** Our paper, "AI Space Cortex: An Experimental System for Future Era Space Exploration," was accepted by IEEE Transactions on Field Robotics (TFR). [arXiv](https://arxiv.org/pdf/2507.06574), [IEEE](https://ieeexplore.ieee.org/document/11078376)
 
 **[July 8, 2025]** We presented our paper at the American Control Conference (ACC) 2025 in Denver, Colorado. [arXiv](https://arxiv.org/pdf/2411.17079)
 
