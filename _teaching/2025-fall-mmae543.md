@@ -16,3 +16,10 @@ semester: "Fall 2025"
   </span>
 </h3>
 Scope: This course introduces linear systems theory, covering essential concepts such as system representation, stability, controllability, observability, state feedback, state estimation, and realization.
+
+<!-- Syllabus button (works on GitHub Pages / Jekyll) -->
+<p>
+  <a class="btn btn--primary" href="{{ '/files/syllabus.pdf' | relative_url }}" target="_blank" rel="noopener">
+    📄 Syllabus (PDF)
+  </a>
+</p>
