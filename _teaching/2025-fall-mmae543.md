@@ -17,11 +17,9 @@ semester: "Fall 2025"
 </h3>
 Scope: This course introduces linear systems theory, covering essential concepts such as system representation, stability, controllability, observability, state feedback, state estimation, and realization.
 
-<!-- Optional inline viewer (remove if you only want the button) -->
-<div style="border:1px solid #eee; border-radius:6px; overflow:hidden; margin-top:0.75rem;">
-  <iframe
-    src="/files/syllabus.pdf#view=FitH"
-    width="100%" height="900" style="border:0;"
-    title="MMAE 543 Syllabus">
-  </iframe>
-</div>
+<!-- Syllabus button -->
+<p>
+  <a class="btn btn--primary" href="/files/syllabus.pdf" target="_blank" rel="noopener">
+    📄 Syllabus (PDF)
+  </a>
+</p>
