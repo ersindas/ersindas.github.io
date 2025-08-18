@@ -15,11 +15,4 @@ semester: "Fall 2025"
     <a href="https://catalog.iit.edu/courses/mmae/" target="_blank">[Course Catalog]</a>
   </span>
 </h3>
-<ul>
-  <li>Review of classical control. Discrete-time systems. Linear difference equations. Z-transform.</li>
-  <li>Design of digital controllers using transform methods. State-space representations of continuous and discrete-time systems.</li>
-  <li>State feedback. Controllability and observability. Pole placement. Optimal control. Linear-Quadratic Regulator (LQR).</li>
-  <li>Probability and stochastic processes. Optimal estimation. Kalman Filter.</li>
-  <li><b>Prerequisites:</b> MMAE 501* (min. grade C); an undergraduate course in classical control. *May be taken concurrently.</li>
-  <li><b>Credits:</b> 3 (Lecture: 3, Lab: 0)</li>
-</ul>
+Scope: This course introduces linear systems theory, covering essential concepts such as system representation, stability, controllability, observability, state feedback, state estimation, and realization.
