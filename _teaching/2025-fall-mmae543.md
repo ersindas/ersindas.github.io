@@ -20,6 +20,6 @@ Scope: This course introduces linear systems theory, covering essential concepts
 <!-- Syllabus button (works on GitHub Pages / Jekyll) -->
 <p>
   <a class="btn btn--primary" href="{{ '/files/syllabus.pdf' | relative_url }}" target="_blank" rel="noopener">
-    📄 Syllabus (PDF)
+    Syllabus (PDF)
   </a>
 </p>
