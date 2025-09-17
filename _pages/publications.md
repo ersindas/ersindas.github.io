@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints/Submitted
 1. **E. Daş**,  W. A. Welch, ..., A. Rahmani, and J. W. Burdick, *Safe Payload Transfer with Ship-Mounted Cranes: A Robust Model Predictive Control Approach*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2026.
-2. 1. E. Sayar, **E. Daş**, J. W. Burdick, A. Knoll, and Erdal Kayacan, *D-SafeMPC: Diffusion-Driven Safe Model Predictive Control with Discrete-Time Control Barrier Functions*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2026.
+2. E. Sayar, **E. Daş**, J. W. Burdick, A. Knoll, and Erdal Kayacan, *D-SafeMPC: Diffusion-Driven Safe Model Predictive Control with Discrete-Time Control Barrier Functions*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2026.
 3. **E. Daş**, R. Nanayakkara, X. Tan, R. M. Bena, J. W. Burdick, P. Tabuada, and A. D. Ames, *Safe Navigation under State Uncertainty: Online Adaptation for Robust Control Barrier Functions*, *IEEE Robotics and Automation Letters*, 2025. [Paper](https://arxiv.org/pdf/2508.19159), [code](https://github.com/ersindas/robust-CBFs), [video](https://youtu.be/tTNu-Etm0SU)
 4. D. E.J. van Wijk, **E. Daş**, A. Alan, S. Coogan, T. G. Molnar, J. W. Burdick, M. Majji, and K. L. Hobbs, *Robust Backup Control Barrier Functions*, *American Control Conference (ACC)*, 2025. [Paper](https://arxiv.org/pdf/2503.15734)
 
