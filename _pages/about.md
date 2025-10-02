@@ -16,8 +16,9 @@ I conduct research on robust control systems, state estimation, system identific
 
 News
 ======
+**[September 30, 2025]** We submitted a paper to the American Control Conference (ACC) 2026. 
 
-**[September 2025]** We submitted two papers to the IEEE International Conference on Robotics and Automation (ICRA) 2026. 
+**[September 14, 2025]** We submitted two papers to the IEEE International Conference on Robotics and Automation (ICRA) 2026. 
 
 **[August 2025]** We submitted a paper to IEEE Robotics and Automation Letters. [arXiv](https://arxiv.org/pdf/2508.19159), [code](https://github.com/ersindas/robust-CBFs), [video](https://youtu.be/tTNu-Etm0SU)
 
