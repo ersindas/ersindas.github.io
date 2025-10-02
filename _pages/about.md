@@ -20,7 +20,7 @@ News
 
 **[September 14, 2025]** We submitted two papers to the IEEE International Conference on Robotics and Automation (ICRA) 2026. 
 
-**[August 2025]** We submitted a paper to IEEE Robotics and Automation Letters. [arXiv](https://arxiv.org/pdf/2508.19159), [code](https://github.com/ersindas/robust-CBFs), [video](https://youtu.be/tTNu-Etm0SU)
+**[August 25, 2025]** We submitted a paper to IEEE Robotics and Automation Letters. [arXiv](https://arxiv.org/pdf/2508.19159), [code](https://github.com/ersindas/robust-CBFs), [video](https://youtu.be/tTNu-Etm0SU)
 
 <div style="border: 2px solid #CC0000; background-color:#fff5f5; padding:0.75em; margin:0.5em 0; border-radius:6px;">
   <strong style="color:#CC0000;">[May 28, 2025]</strong> I am exited to share that I will be joining the <em><a href="https://www.iit.edu/mmae" style="color:#CC0000; text-decoration: underline;">Department of Mechanical, Materials, and Aerospace Engineering</a></em> at the <strong>Illinois Institute of Technology</strong> as an <strong>Assistant Professor</strong> starting October 2025. 
