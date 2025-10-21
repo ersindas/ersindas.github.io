@@ -18,7 +18,7 @@ News
 ======
 **[September 30, 2025]** We submitted a paper to the American Control Conference (ACC) 2026. [arXiv](https://arxiv.org/pdf/2510.05436), [code](https://github.com/davidvwijk/OI-CBF)
 
-**[September 14, 2025]** We submitted two papers to the IEEE International Conference on Robotics and Automation (ICRA) 2026. 
+**[September 14, 2025]** We submitted two papers to the IEEE International Conference on Robotics and Automation (ICRA) 2026. [Paper_1](https://arxiv.org/pdf/2510.16953)
 
 **[August 25, 2025]** We submitted a paper to IEEE Robotics and Automation Letters. [arXiv](https://arxiv.org/pdf/2508.19159), [code](https://github.com/ersindas/robust-CBFs), [video](https://youtu.be/tTNu-Etm0SU)
 
