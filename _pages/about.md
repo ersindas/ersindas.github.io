@@ -8,7 +8,7 @@ redirect_from:
 ---
 Welcome!
 
-I will be joining the <em><a href="https://www.iit.edu/mmae" style="color:#CC0000; text-decoration: underline;">Department of Mechanical, Materials, and Aerospace Engineering</a></em> at the <strong>Illinois Institute of Technology</strong> as an <strong>Assistant Professor</strong> in October 2025.
+I will be joining the <em><a href="https://www.iit.edu/mmae" style="color:#CC0000; text-decoration: underline;">Department of Mechanical, Materials, and Aerospace Engineering</a></em> at the <strong>Illinois Institute of Technology</strong> as an <strong>Assistant Professor</strong> in January 2026.
 
 I am currently a postdoctoral researcher in the [Burdick group](https://robotics.caltech.edu/wiki/index.php/Robotics) at [Caltech](https://www.mce.caltech.edu/people/ersindas) and a member of the [Center for Autonomous Systems and Technologies](https://cast.caltech.edu/) (CAST). At Caltech, I have the privilege of working closely with Professors [Joel W. Burdick](https://www.eas.caltech.edu/people/jburdick), [Richard M. Murray](https://murray.cds.caltech.edu/Main_Page), and [Aaron D. Ames](http://ames.caltech.edu/). Currently, I am collaborating with the Ocean World Lander Autonomy team at the [Jet Propulsion Laboratory - NASA](https://www-robotics.jpl.nasa.gov/) to investigate safe autonomous lander operations on ocean worlds in the Solar System, such as Europa and Enceladus.
 
@@ -23,7 +23,7 @@ News
 **[August 25, 2025]** We submitted a paper to IEEE Robotics and Automation Letters. [arXiv](https://arxiv.org/pdf/2508.19159), [code](https://github.com/ersindas/robust-CBFs), [video](https://youtu.be/tTNu-Etm0SU)
 
 <div style="border: 2px solid #CC0000; background-color:#fff5f5; padding:0.75em; margin:0.5em 0; border-radius:6px;">
-  <strong style="color:#CC0000;">[May 28, 2025]</strong> I am exited to share that I will be joining the <em><a href="https://www.iit.edu/mmae" style="color:#CC0000; text-decoration: underline;">Department of Mechanical, Materials, and Aerospace Engineering</a></em> at the <strong>Illinois Institute of Technology</strong> as an <strong>Assistant Professor</strong> starting October 2025. 
+  <strong style="color:#CC0000;">[May 28, 2025]</strong> I am exited to share that I will be joining the <em><a href="https://www.iit.edu/mmae" style="color:#CC0000; text-decoration: underline;">Department of Mechanical, Materials, and Aerospace Engineering</a></em> at the <strong>Illinois Institute of Technology</strong> as an <strong>Assistant Professor</strong> starting January 2026. 
 
   <span style="display:block; margin-top:0.6em;">
     <strong>I am actively recruiting Ph.D.&nbsp;students</strong>, and there are also exciting opportunities for master’s and undergraduate students to join the team.
