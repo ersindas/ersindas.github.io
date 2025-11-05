@@ -16,6 +16,8 @@ I conduct research on robust control systems, state estimation, system identific
 
 News
 ======
+**[November 4, 2025]** We submitted a paper to Automatica. [arXiv](https://arxiv.org/pdf/2503.15734)
+
 **[September 30, 2025]** We submitted a paper to the American Control Conference (ACC) 2026. [arXiv](https://arxiv.org/pdf/2510.05436), [code](https://github.com/davidvwijk/OI-CBF)
 
 **[September 14, 2025]** We submitted two papers to the IEEE International Conference on Robotics and Automation (ICRA) 2026. [arXiv](https://arxiv.org/pdf/2510.16953)
@@ -51,8 +53,6 @@ News
 **[April 18, 2025]** I presented our research on *Robust Control Barrier Functions* at the 45th Southern California Control Workshop, held at the University of California, San Diego, on Friday, April 18th. [Link](http://terrano.ucsd.edu/jorge/sccw/index.html)
 
 **[April 16, 2025]** I gave a seminar on *Uncertainty-Aware Safe Autonomy for Real-World Systems* to the Dynamics & Control Research Group of the University of Bristol, UK.
-
-**[March 2025]** We submitted a paper to the IEEE Conference on Decision and Control (CDC) 2025. [arXiv](https://arxiv.org/pdf/2503.15734)
 
 **[February 2025]** We submitted a paper to IEEE Transactions on Field Robotics. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2507.06574)
 
