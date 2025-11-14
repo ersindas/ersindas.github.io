@@ -1,5 +1,5 @@
 ---
-title: "MMAE 543: Modern Control Systems"
+title: "MMAE 549: Optimal Control"
 collection: teaching
 type: "Course"
 date: 2025-08-01
@@ -8,15 +8,15 @@ semester: "Fall 2025"
 ---
 
 <h3>
-  MMAE 543: Modern Control Systems
+  MMAE 54: Optimal Control
   <span style="font-weight:normal">
-    (Fall 2025, Illinois Institute of Technology)
+    (Spring 2026, Illinois Institute of Technology)
   </span>
 </h3>
 
-<!-- Syllabus button -->
-<p>
-  <a class="btn btn--primary" href="/files/syllabus.pdf" target="_blank" rel="noopener">
-    📄 Syllabus (PDF)
-  </a>
-</p>
+# <!-- Syllabus button -->
+# <p>
+#  <a class="btn btn--primary" href="/files/syllabus.pdf" target="_blank" rel="noopener">
+#    📄 Syllabus (PDF)
+#  </a>
+# </p>
