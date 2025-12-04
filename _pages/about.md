@@ -8,11 +8,12 @@ redirect_from:
 ---
 Welcome!
 
-I am an Assistant Professor in the <em><a href="https://www.iit.edu/mmae" style="color:#CC0000; text-decoration: underline;">Department of Mechanical, Materials, and Aerospace Engineering</a></em> at the <strong>Illinois Institute of Technology</strong>. 
+I am an Assistant Professor in the [Department of Mechanical, Materials, and Aerospace Engineering](https://www.iit.edu/mmae) at [Illinois Institute of Technology](https://www.iit.edu).
 
-I conduct research on robust safe control systems, state estimation, system identification, and machine learning techniques in robotics to address challenges posed by dynamic uncertainties in feedback control implementations. 
+My research focuses on robust, uncertainty-aware safe control, state estimation, and system identification for robotic and autonomous systems. We develop methods that integrate control theory and machine learning to handle dynamic uncertainties in real-world feedback control implementations.
 
-Prior to joining Illinois Tech, I was a postdoctoral researcher in the [Burdick group](https://robotics.caltech.edu/wiki/index.php/Robotics) at [Caltech](https://www.mce.caltech.edu/people/ersindas) and a member of the [Center for Autonomous Systems and Technologies](https://cast.caltech.edu/) (CAST). At Caltech, I had the privilege of working closely with Professors [Joel W. Burdick](https://www.eas.caltech.edu/people/jburdick), [Aaron D. Ames](http://ames.caltech.edu/), and [Richard M. Murray](https://murray.cds.caltech.edu/Main_Page). I also collaborated with [NASA Jet Propulsion Laboratory-Robotics](https://www-robotics.jpl.nasa.gov/) to investigate safe autonomous lander operations on ocean worlds in the Solar System, such as Europa and Enceladus.
+Prior to joining Illinois Tech, I was a postdoctoral researcher in the [Burdick group](https://robotics.caltech.edu/wiki/index.php/Robotics) at [Caltech](https://www.mce.caltech.edu/people/ersindas) and a member of the [Center for Autonomous Systems and Technologies](https://cast.caltech.edu/) (CAST). At Caltech, I had the privilege of working closely with Professors [Joel W. Burdick](https://www.eas.caltech.edu/people/jburdick), [Aaron D. Ames](http://ames.caltech.edu/), and [Richard M. Murray](https://murray.cds.caltech.edu/Main_Page). I also collaborated with the [NASA Jet Propulsion Laboratory Robotics team](https://www-robotics.jpl.nasa.gov/) to investigate safe autonomous lander operations on ocean worlds in the Solar System, such as Europa and Enceladus.
+
 
 News
 ======
