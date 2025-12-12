@@ -17,6 +17,8 @@ Prior to joining Illinois Tech, I was a postdoctoral researcher in the [Burdick 
 
 News
 ======
+**[December 11, 2025]** We submitted a paper to the IFAC World Congress (IFAC WC) 2026. [arXiv](https://arxiv.org/pdf/2512.10118), [code](https://github.com/ersindas/Quadrotor_CBF)
+
 **[November 4, 2025]** We submitted a paper to Automatica. [arXiv](https://arxiv.org/pdf/2503.15734)
 
 **[September 30, 2025]** We submitted a paper to the American Control Conference (ACC) 2026. [arXiv](https://arxiv.org/pdf/2510.05436), [code](https://github.com/davidvwijk/OI-CBF)
