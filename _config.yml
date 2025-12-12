@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Ersin Daş"
-description              : &description "Postdoctoral researcher, Caltech"
+description              : &description "Assistant Professor, Illinois Institute of Technology"
 url                      : https://ersindas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ersindas.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "profile_ed.JPG"
   name             : "Ersin Daş"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher at Caltech"
-  location         : "Pasadena, CA"
-  employer         : "Caltech"
+  bio              : "Assistant Professor at Illinois Tech"
+  location         : "Chicago, IL"
+  employer         : "Illinois Tech"
   url              : "https://ersindas.github.io"
-  email            : "ersindas@caltech.edu" 
+  email            : "edas2@illinoistech.edu" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=55vSqwsAAAAJ&hl=en&oi=ao"
@@ -307,7 +307,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
