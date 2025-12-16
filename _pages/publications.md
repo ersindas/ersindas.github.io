@@ -13,6 +13,7 @@ author_profile: true
 3. D. E.J. van Wijk, **E. Daş**, T. G. Molnar, A. D. Ames, and J. W. Burdick, *Safety-Critical Control with Bounded Inputs: A Closed-Form Solution for Backup Control Barrier Functions*, *American Control Conference (ACC)*, 2026. [Paper](https://arxiv.org/pdf/2510.05436), [code](https://github.com/davidvwijk/OI-CBF)
 4. E. Sayar, **E. Daş**, J. W. Burdick, A. Knoll, and E. Kayacan, *D-SafeMPC: Diffusion-Driven Safe Model Predictive Control with Discrete-Time Control Barrier Functions*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2026.
 5. D. E.J. van Wijk, **E. Daş**, A. Alan, S. Coogan, T. G. Molnar, J. W. Burdick, M. Majji, and K. L. Hobbs, *Uncertainty Estimators for Robust Backup Control Barrier Functions*, *Automatica*, 2025. [Paper](https://arxiv.org/pdf/2503.15734)
+6. P. Mestres, S. S. Mousavi, P. Ong, L. Yang, **E. Daş**, J. W. Burdick, and A. D. Ames, *Explicit Control Barrier Function-based Safety Filters and their Resource-Aware Computation*, *IFAC World Congress*, 2026. [Paper](https://arxiv.org/pdf/2512.10118), [code](https://github.com/ersindas/Quadrotor_CBF)
 
 ## Journal Papers
 1. T. Touma, **E. Daş**, E. Tevere, M. Feather, K. Kolcio, M. Prather, A. Candela, A. Goel, E. Kramer, H. Nayar, L. Fesq, and J. W. Burdick, *AI Space Cortex: An Experimental System for 
