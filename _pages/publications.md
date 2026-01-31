@@ -8,7 +8,7 @@ author_profile: true
  <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">Google Scholar</a>.
 
 ## Preprints/Submitted
-1. E. Sayar, **E. Daş**, J. W. Burdick, A. Knoll, and E. Kayacan, *D-SafeMPC: Diffusion-Driven Safe Model Predictive Control with Discrete-Time Control Barrier Functions*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2026.
+1. E. Sayar, **E. Daş**, J. W. Burdick, A. Knoll, and E. Kayacan, *D-SafeMPC: Diffusion-Driven Safe Model Predictive Control with Discrete-Time Control Barrier Functions*, 2026.
 2. D. E.J. van Wijk, **E. Daş**, A. Alan, S. Coogan, T. G. Molnar, J. W. Burdick, M. Majji, and K. L. Hobbs, *Uncertainty Estimators for Robust Backup Control Barrier Functions*, *Automatica*, 2025. [Paper](https://arxiv.org/pdf/2503.15734)
 3. P. Mestres, S. S. Mousavi, P. Ong, L. Yang, **E. Daş**, J. W. Burdick, and A. D. Ames, *Explicit Control Barrier Function-based Safety Filters and their Resource-Aware Computation*, *IFAC World Congress*, 2026. [Paper](https://arxiv.org/pdf/2512.10118), [code](https://github.com/ersindas/Quadrotor_CBF)
 
