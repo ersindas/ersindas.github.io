@@ -24,7 +24,7 @@ News
 
 **[September 30, 2025]** We submitted a paper to the American Control Conference (ACC) 2026. <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2510.05436), [code](https://github.com/davidvwijk/OI-CBF)
 
-**[September 14, 2025]** We submitted two papers to the IEEE International Conference on Robotics and Automation (ICRA) 2026. <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2510.16953)
+**[September 14, 2025]** We submitted a paper to the IEEE International Conference on Robotics and Automation (ICRA) 2026. <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2510.16953)
 
 **[August 25, 2025]** We submitted a paper, entitled “Safe Navigation under State Uncertainty: Online Adaptation for Robust Control Barrier Functions”, to IEEE Robotics and Automation Letters. <span style="color:green;">(Accepted)</span>, [IEEE](https://ieeexplore.ieee.org/document/11347515), [arXiv](https://arxiv.org/pdf/2508.19159), [code](https://github.com/ersindas/robust-CBFs), [video](https://youtu.be/tTNu-Etm0SU)
 
