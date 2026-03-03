@@ -10,7 +10,7 @@ author_profile: true
 ## Preprints/Submitted
 1. E. Sarioglu, **E. Daş**, and K. M. Dogan, *Safe Model Reference Adaptive Control of Uncertain Systems with
 Actuator Dynamics*, *Systems & Control Letters*, 2026.
-2. E. Sayar, **E. Daş**, J. W. Burdick, A. Knoll, and E. Kayacan, *D-SafeMPC: Diffusion-Driven Safe Model Predictive Control with Discrete-Time Control Barrier Functions*, 2026.
+2. E. Sayar, **E. Daş**, J. W. Burdick, A. Knoll, and E. Kayacan, *D-SafeMPC: Diffusion-Driven Safe Model Predictive Control with Discrete-Time Control Barrier Functions*, *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2026.
 3. D. E.J. van Wijk, **E. Daş**, A. Alan, S. Coogan, T. G. Molnar, J. W. Burdick, M. Majji, and K. L. Hobbs, *Uncertainty Estimators for Robust Backup Control Barrier Functions*, *Automatica*, 2025. [Paper](https://arxiv.org/pdf/2503.15734)
 4. P. Mestres, S. S. Mousavi, P. Ong, L. Yang, **E. Daş**, J. W. Burdick, and A. D. Ames, *Explicit Control Barrier Function-based Safety Filters and their Resource-Aware Computation*, *IFAC World Congress*, 2026. [Paper](https://arxiv.org/pdf/2512.10118), [code](https://github.com/ersindas/Quadrotor_CBF)
 
