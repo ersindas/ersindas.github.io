@@ -13,7 +13,7 @@ author_profile: true
 3. E. Sarioglu, **E. Daş**, and K. M. Dogan, *Safe Model Reference Adaptive Control of Uncertain Systems with
 Actuator Dynamics*, *Systems & Control Letters*, 2026.
 4. E. Sayar, **E. Daş**, J. W. Burdick, A. Knoll, and E. Kayacan, *D-SafeMPC: Diffusion-Driven Safe Model Predictive Control with Discrete-Time Control Barrier Functions*, *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2026.
-5. E. Sayar, Adrian Redder, **E. Daş**, and E. Kayacan, *Safe Diffusion Planning via Batch-Parallel Model Predictive Control Projection and Pareto Selection*, *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2026.
+5. E. Sayar, A. Redder, **E. Daş**, and E. Kayacan, *Safe Diffusion Planning via Batch-Parallel Model Predictive Control Projection and Pareto Selection*, *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2026.
 
 ## Journal Papers
 1. **E. Daş**, R. Nanayakkara, X. Tan, R. M. Bena, J. W. Burdick, P. Tabuada, and A. D. Ames, *Safe Navigation under State Uncertainty: Online Adaptation for Robust Control Barrier Functions*, *IEEE Robotics and Automation Letters*, 2025. [Paper](https://arxiv.org/pdf/2508.19159), [code](https://github.com/ersindas/robust-CBFs), [video](https://youtu.be/tTNu-Etm0SU)
