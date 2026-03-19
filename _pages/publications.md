@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints/Submitted
 1. L. Gacsi, A. K. Kiss, **E. Daş**, and T. G. Molnar, *Enforcing Mixed State-Input Constraints with Multiple Backup
-Control Barrier Functions: A Projection-based Approach*, *IEEE Control Systems Letters (L-CSS)*, 2026. 
+Control Barrier Functions: A Projection-based Approach*, *IEEE Control Systems Letters (L-CSS)*, 2026. [Paper](https://arxiv.org/pdf/2603.17097)
 2. D. E.J. van Wijk, D. Lee, **E. Daş**, T. G. Molnar, A. D. Ames, and J. W. Burdick, *Generalizations of Backup Control Barrier Functions:
 Expansion and Adaptation for Input-Bounded Safety-Critical Control*, *IEEE Control Systems Letters (L-CSS)*, 2026.
 3. K. Echigo, D. E.J. van Wijk, P. Mestres, **E. Daş**, J. W. Burdick, and A. D. Ames, *Probabilistic Control Barrier Functions for Systems with State Estimation Uncertainty using Sub-Gaussian Concentration*, *IEEE Control Systems Letters (L-CSS)*, 2026.
