@@ -8,7 +8,7 @@ author_profile: true
  <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">Google Scholar</a>.
 
 ## Preprints/Submitted
-1. A. K. Kiss, **E. Daş**, T. G. Molnar, and A. D. Ames, *Integral Control Barrier Functions with Input Delay: Prediction, Feasibility, and Robustness*, *IEEE Control Systems Letters (L-CSS)*, 2026. 
+1. A. K. Kiss, **E. Daş**, T. G. Molnar, and A. D. Ames, *Integral Control Barrier Functions with Input Delay: Prediction, Feasibility, and Robustness*, *IEEE Control Systems Letters (L-CSS)*, 2026. [Paper](https://arxiv.org/pdf/2603.24566)
 2. L. Gacsi, A. K. Kiss, **E. Daş**, and T. G. Molnar, *Enforcing Mixed State-Input Constraints with Multiple Backup
 Control Barrier Functions: A Projection-based Approach*, *IEEE Control Systems Letters (L-CSS)*, 2026. [Paper](https://arxiv.org/pdf/2603.17097)
 3. D. E.J. van Wijk, D. Lee, **E. Daş**, T. G. Molnar, A. D. Ames, and J. W. Burdick, *Generalizations of Backup Control Barrier Functions: Expansion and Adaptation for Input-Bounded Safety-Critical Control*, *IEEE Control Systems Letters (L-CSS)*, 2026. [Paper](https://arxiv.org/pdf/2603.18450)
