@@ -22,7 +22,7 @@ News
 
 **[March 3, 2025]** We submitted two papers to the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026.
 
-**[December 11, 2025]** We submitted a paper to the IFAC World Congress 2026. [arXiv](https://arxiv.org/pdf/2512.10118), [code](https://github.com/ersindas/Quadrotor_CBF)
+**[December 11, 2025]** We submitted a paper to the IFAC World Congress 2026. <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2512.10118), [code](https://github.com/ersindas/Quadrotor_CBF)
 
 **[November 4, 2025]** We submitted a paper to Automatica. [arXiv](https://arxiv.org/pdf/2503.15734)
 
@@ -62,7 +62,7 @@ News
 
 **[April 16, 2025]** I gave a seminar on *Uncertainty-Aware Safe Autonomy for Real-World Systems* to the Dynamics & Control Research Group of the University of Bristol, UK.
 
-**[February 2025]** We submitted a paper to IEEE Transactions on Field Robotics. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2507.06574)
+**[February 2025]** We submitted a paper to IEEE Transactions on Field Robotics. <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2507.06574)
 
 **[January 2025]** Our paper, "Robust Control Barrier Functions using Uncertainty Estimation with Application to Mobile Robots", was accepted by IEEE Transactions on Automatic Control (TAC). [arXiv](https://arxiv.org/pdf/2401.01881), [IEEE](https://ieeexplore.ieee.org/document/10872802)
 
