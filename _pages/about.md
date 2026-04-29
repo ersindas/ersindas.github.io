@@ -18,9 +18,9 @@ Prior to joining Illinois Tech, I was a postdoctoral researcher in the [Burdick 
 
 News
 ======
-**[March 17, 2025]** We submitted four papers to IEEE Control Systems Letters (L-CSS) and the IEEE Conference on Decision and Control (CDC) 2026. [arXiv](https://arxiv.org/pdf/2603.24566), [arXiv](https://arxiv.org/pdf/2603.17097), [arXiv](https://arxiv.org/pdf/2603.18450),  [arXiv](https://arxiv.org/pdf/2604.08831)
+**[March 17, 2026]** We submitted four papers to IEEE Control Systems Letters (L-CSS) and the IEEE Conference on Decision and Control (CDC) 2026. [arXiv](https://arxiv.org/pdf/2603.24566), [arXiv](https://arxiv.org/pdf/2603.17097), [arXiv](https://arxiv.org/pdf/2603.18450),  [arXiv](https://arxiv.org/pdf/2604.08831)
 
-**[March 3, 2025]** We submitted two papers to the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026.
+**[March 3, 2026]** We submitted two papers to the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026.
 
 **[December 11, 2025]** We submitted a paper to the IFAC World Congress 2026. <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2512.10118), [code](https://github.com/ersindas/Quadrotor_CBF)
 
