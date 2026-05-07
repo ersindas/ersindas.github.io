@@ -8,7 +8,9 @@ redirect_from:
 ---
 Welcome!
 
-I am an Assistant Professor in the [Department of Mechanical, Materials, and Aerospace Engineering](https://www.iit.edu/mmae) at [Illinois Institute of Technology](https://www.iit.edu).
+I am an Assistant Professor in the [Department of Mechanical, Materials, and Aerospace Engineering](https://www.iit.edu/mmae) at [Illinois Institute of Technology](https://www.iit.edu), where I direct the Robust Control Lab (RCL).
+
+At RCL, we develop theoretically grounded and experimentally validated optimization-based control methods for safe, robust, and autonomous robotic systems.
 
 My research focuses on robust, uncertainty-aware safe control, state estimation, and system identification for robotic and autonomous systems. We develop methods that integrate control theory and machine learning to handle dynamic uncertainties in real-world feedback control implementations.
 
