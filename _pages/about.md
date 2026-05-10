@@ -10,9 +10,7 @@ Welcome!
 
 I am an Assistant Professor in the [Department of Mechanical, Materials, and Aerospace Engineering](https://www.iit.edu/mmae) at [Illinois Institute of Technology](https://www.iit.edu), where I direct the Robust Control Lab (RCL).
 
-At RCL, we develop theoretically grounded and experimentally validated optimization-based control methods for safe, robust, and autonomous robotic systems.
-
-My research focuses on robust, uncertainty-aware safe control, state estimation, and system identification for robotic and autonomous systems. We develop methods that integrate control theory and machine learning to handle dynamic uncertainties in real-world feedback control implementations.
+At RCL, our research focuses on robust and adaptive safe control, state estimation, and system identification for robotic and autonomous systems. We develop experimentally validated, optimization-based control methods that integrate control theory and machine learning for real-world feedback control implementations.
 
 Prior to joining Illinois Tech, I was a postdoctoral researcher in the [Burdick group](https://robotics.caltech.edu/wiki/index.php/Robotics) at [Caltech](https://www.mce.caltech.edu/people/ersindas) and a member of the [Center for Autonomous Systems and Technologies](https://cast.caltech.edu/) (CAST). At Caltech, I had the privilege of working closely with Professors [Joel W. Burdick](https://www.eas.caltech.edu/people/jburdick), [Aaron D. Ames](http://ames.caltech.edu/), and [Richard M. Murray](https://murray.cds.caltech.edu/Main_Page). I also collaborated with the [NASA Jet Propulsion Laboratory Robotics](https://www-robotics.jpl.nasa.gov/) team.
 <!--to investigate safe autonomous lander operations on ocean worlds in the Solar System, such as Europa and Enceladus.-->
