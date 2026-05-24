@@ -22,6 +22,8 @@ News
 
 **[March 3, 2026]** We submitted two papers to the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026.
 
+**[January 1, 2026]** I joined the <em><a href="https://www.iit.edu/mmae" style="color:#CC0000; text-decoration: underline;">Department of Mechanical, Materials, and Aerospace Engineering</a></em> at the <strong>Illinois Institute of Technology</strong> as an <strong>Assistant Professor</strong>.
+
 **[December 11, 2025]** We submitted a paper to the IFAC World Congress 2026. <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2512.10118), [code](https://github.com/ersindas/Quadrotor_CBF)
 
 **[November 4, 2025]** We submitted a paper to Automatica. [arXiv](https://arxiv.org/pdf/2503.15734)
@@ -31,11 +33,6 @@ News
 **[September 14, 2025]** We submitted a paper to the IEEE International Conference on Robotics and Automation (ICRA) 2026. <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2510.16953)
 
 **[August 25, 2025]** We submitted a paper, entitled “Safe Navigation under State Uncertainty: Online Adaptation for Robust Control Barrier Functions”, to IEEE Robotics and Automation Letters. <span style="color:green;">(Accepted)</span>, [IEEE](https://ieeexplore.ieee.org/document/11347515), [arXiv](https://arxiv.org/pdf/2508.19159), [code](https://github.com/ersindas/robust-CBFs), [video](https://youtu.be/tTNu-Etm0SU)
-
-<div style="border: 2px solid #CC0000; background-color:#fff5f5; padding:0.75em; margin:0.5em 0; border-radius:6px;">
-  <strong style="color:#CC0000;">[May 28, 2025]</strong> I am excited to share that I will be joining the <em><a href="https://www.iit.edu/mmae" style="color:#CC0000; text-decoration: underline;">Department of Mechanical, Materials, and Aerospace Engineering</a></em> at the <strong>Illinois Institute of Technology</strong> as an <strong>Assistant Professor</strong> starting in January 2026. 
-</div>
-
 
 **[July 9, 2025]** Our paper, "AI Space Cortex: An Experimental System for Future Era Space Exploration", was accepted by IEEE Transactions on Field Robotics (TFR). [arXiv](https://arxiv.org/pdf/2507.06574), [IEEE](https://ieeexplore.ieee.org/document/11078376)
 
