@@ -34,10 +34,6 @@ News
 
 <div style="border: 2px solid #CC0000; background-color:#fff5f5; padding:0.75em; margin:0.5em 0; border-radius:6px;">
   <strong style="color:#CC0000;">[May 28, 2025]</strong> I am excited to share that I will be joining the <em><a href="https://www.iit.edu/mmae" style="color:#CC0000; text-decoration: underline;">Department of Mechanical, Materials, and Aerospace Engineering</a></em> at the <strong>Illinois Institute of Technology</strong> as an <strong>Assistant Professor</strong> starting in January 2026. 
-
-  <span style="display:block; margin-top:0.6em;">
-    <strong>I am actively recruiting Ph.D.&nbsp;students</strong>, and there are also exciting opportunities for master’s and undergraduate students to join the team.
-  </span>
 </div>
 
 
