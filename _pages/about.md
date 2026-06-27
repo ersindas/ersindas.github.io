@@ -20,7 +20,7 @@ News
 ======
 **[March 17, 2026]** We submitted four papers to IEEE Control Systems Letters (L-CSS) and the IEEE Conference on Decision and Control (CDC) 2026. [arXiv](https://arxiv.org/pdf/2603.24566), [arXiv](https://arxiv.org/pdf/2603.17097) <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2603.18450),  [arXiv](https://arxiv.org/pdf/2604.08831) <span style="color:green;">(Accepted)</span>
 
-**[March 3, 2026]** We submitted two papers to the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026.
+**[March 3, 2026]** We submitted a paper to the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026. <span style="color:green;">(Accepted)</span>
 
 **[January 1, 2026]** I joined the <em><a href="https://www.iit.edu/mmae" style="color:#CC0000; text-decoration: underline;">Department of Mechanical, Materials, and Aerospace Engineering</a></em> at the <strong>Illinois Institute of Technology</strong> as an <strong>Assistant Professor</strong>.
 
