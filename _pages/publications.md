@@ -8,11 +8,12 @@ author_profile: true
  <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">Google Scholar</a>.
 
 ## Preprints/Submitted
-1. H. T. Dinc, **E. Daş**, N. Thelenberg, and C. Ott, *Passivity-Guaranteed Variable Impedance and Compliance Control via Online Parameter Optimization*, *IEEE Robotics and Automation Letters*, 2026.
-2. D. E.J. van Wijk, **E. Daş**, A. Alan, S. Coogan, T. G. Molnar, J. W. Burdick, M. Majji, and K. L. Hobbs, *Uncertainty Estimators for Robust Backup Control Barrier Functions*, *Automatica*, 2025. [Paper](https://arxiv.org/pdf/2503.15734)
-3. E. Sarioglu, **E. Daş**, and K. M. Dogan, *Safe Model Reference Adaptive Control of Uncertain Systems with
+1. **E. Daş**, D. E.J. van Wijk, T. G. Molnar, A. D. Ames, and J. W. Burdick, *Robust Adaptive Backup Control Barrier Functions*, 2026. [Paper](https://arxiv.org/pdf/2607.20842)
+2. H. T. Dinc, **E. Daş**, N. Thelenberg, and C. Ott, *Passivity-Guaranteed Variable Impedance and Compliance Control via Online Parameter Optimization*, *IEEE Robotics and Automation Letters*, 2026.
+3. D. E.J. van Wijk, **E. Daş**, A. Alan, S. Coogan, T. G. Molnar, J. W. Burdick, M. Majji, and K. L. Hobbs, *Uncertainty Estimators for Robust Backup Control Barrier Functions*, *Automatica*, 2025. [Paper](https://arxiv.org/pdf/2503.15734)
+4. E. Sarioglu, **E. Daş**, and K. M. Dogan, *Safe Model Reference Adaptive Control of Uncertain Systems with
 Actuator Dynamics*, *Systems & Control Letters*, 2026.
-4. E. Sayar, A. Redder, **E. Daş**, and E. Kayacan, *Safe Diffusion Planning via Batch-Parallel Model Predictive Control Projection and Pareto Selection*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2027.
+5. E. Sayar, A. Redder, **E. Daş**, and E. Kayacan, *Safe Diffusion Planning via Batch-Parallel Model Predictive Control Projection and Pareto Selection*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2027.
 
 ## Journal Papers
 1. A. K. Kiss, **E. Daş**, T. G. Molnar, and A. D. Ames, *Integral Control Barrier Functions with Input Delay: Prediction, Feasibility, and Robustness*, *IEEE Control Systems Letters (L-CSS)*, 2026. [Paper](https://arxiv.org/pdf/2603.24566)
