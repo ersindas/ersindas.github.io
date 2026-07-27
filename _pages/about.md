@@ -18,7 +18,7 @@ Prior to joining Illinois Tech, I was a postdoctoral researcher in the [Burdick 
 
 News
 ======
-**[July 23, 2026]** Our preprint, “Robust Adaptive Backup Control Barrier Functions”, is now available on [arXiv](https://arxiv.org/pdf/2607.20842), [code](https://github.com/ersindas/abCBFs)
+**[July 27, 2026]** We submitted our paper “Robust Adaptive Backup Control Barrier Functions” to IEEE Control Systems Letters (L-CSS), with the option of presentation at the 2027 American Control Conference (ACC). [arXiv](https://arxiv.org/pdf/2607.20842), [code](https://github.com/ersindas/abCBFs)
 
 **[March 17, 2026]** We submitted four papers to IEEE Control Systems Letters (L-CSS) and the IEEE Conference on Decision and Control (CDC) 2026. [arXiv](https://arxiv.org/pdf/2603.24566) <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2603.17097) <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2603.18450) <span style="color:green;">(Accepted)</span>,  [arXiv](https://arxiv.org/pdf/2604.08831) <span style="color:green;">(Accepted)</span>
 
@@ -69,7 +69,7 @@ News
 
 **[September 2024]** We submitted a paper to the IEEE International Conference on Robotics and Automation (ICRA) 2025. <span style="color:green;">(Accepted)</span> [arXiv](https://arxiv.org/pdf/2409.10802)
 
-**[July 2024]** Our paper, "Rollover Prevention for Mobile Robots With Control Barrier Functions: Differentiator-Based Adaptation and Projection-to-State Safety", was accepted by IEEE Control Systems Letters (L-CSS) and IEEE Conference on Decision and Control (CDC) 2024. [arXiv](https://arxiv.org/pdf/2403.08916)
+**[July 2024]** Our paper, "Rollover Prevention for Mobile Robots With Control Barrier Functions: Differentiator-Based Adaptation and Projection-to-State Safety", was accepted by IEEE Control Systems Letters (L-CSS) and the IEEE Conference on Decision and Control (CDC) 2024. [arXiv](https://arxiv.org/pdf/2403.08916)
 
 **[May 2024]** I visited [Hatanaka Lab](https://hatanakalab.wixsite.com/website) at the Tokyo Institute of Technology.
 
