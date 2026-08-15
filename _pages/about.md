@@ -30,7 +30,7 @@ News
 
 **[November 4, 2025]** We submitted a paper to Automatica. [arXiv](https://arxiv.org/pdf/2503.15734)
 
-**[September 30, 2025]** We submitted a paper to the American Control Conference (ACC) 2026. <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2510.05436), [code](https://github.com/davidvwijk/OI-CBF)
+**[September 30, 2025]** We submitted a paper to the American Control Conference (ACC) 2026. <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2510.05436), [IEEE](https://ieeexplore.ieee.org/document/11615348), [code](https://github.com/davidvwijk/OI-CBF)
 
 **[September 14, 2025]** We submitted a paper to the IEEE International Conference on Robotics and Automation (ICRA) 2026. <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2510.16953)
 
