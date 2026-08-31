@@ -10,10 +10,11 @@ author_profile: true
 ## Preprints/Submitted
 1. **E. Daş**, D. E. J. van Wijk, T. G. Molnar, A. D. Ames, and J. W. Burdick, *Robust Adaptive Backup Control Barrier Functions*, *IEEE Control Systems Letters (L-CSS)*, 2026. [Paper](https://arxiv.org/pdf/2607.20842), [code](https://github.com/ersindas/abCBFs)
 2. H. T. Dinc, **E. Daş**, N. Thelenberg, and C. Ott, *Passivity-Guaranteed Variable Impedance and Compliance Control via Online Parameter Optimization*, *IEEE Robotics and Automation Letters*, 2026.
-3. D. E. J. van Wijk, **E. Daş**, A. Alan, S. Coogan, T. G. Molnar, J. W. Burdick, M. Majji, and K. L. Hobbs, *Uncertainty Estimators for Robust Backup Control Barrier Functions*, *Automatica*, 2025. [Paper](https://arxiv.org/pdf/2503.15734)
+3. D. E. J. van Wijk, **E. Daş**, A. Alan, S. Coogan, T. G. Molnar, J. W. Burdick, M. Majji, and K. L. Hobbs, *Uncertainty Estimators for Robust Backup Control Barrier Functions*, *IEEE Open Journal of Control Systems*, 2026. [Paper](https://arxiv.org/pdf/2503.15734)
 4. E. Sarioglu, **E. Daş**, and K. M. Dogan, *Safe Model Reference Adaptive Control of Uncertain Systems with
 Actuator Dynamics*, *Systems & Control Letters*, 2026.
 5. E. Sayar, A. Redder, **E. Daş**, and E. Kayacan, *Safe Diffusion Planning via Batch-Parallel Model Predictive Control Projection and Pareto Selection*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2027.
+6. J. Chun, S. S. Mousavi, D. E. J. van Wijk, **E. Daş**, A. D. Ames, and F. Biertümpfel, *Backup Control Barrier Function Synthesis using Sum-of-Squares Reachability*, *IEEE Control Systems Letters (L-CSS)*, 2026. [Paper](https://arxiv.org/pdf/2608.27916)  
 
 ## Journal Papers
 1. A. K. Kiss, **E. Daş**, T. G. Molnar, and A. D. Ames, *Integral Control Barrier Functions with Input Delay: Prediction, Feasibility, and Robustness*, *IEEE Control Systems Letters (L-CSS)*, 2026. [Paper](https://arxiv.org/pdf/2603.24566)
