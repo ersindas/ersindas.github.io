@@ -18,6 +18,8 @@ Prior to joining Illinois Tech, I was a postdoctoral researcher in the [Burdick 
 
 News
 ======
+**[August 28, 2026]** We submitted a paper to IEEE Open Journal of Control Systems. [arXiv](https://arxiv.org/pdf/2503.15734)
+
 **[July 27, 2026]** We submitted our paper “Robust Adaptive Backup Control Barrier Functions” to IEEE Control Systems Letters (L-CSS), with the option of presentation at the 2027 American Control Conference (ACC). [arXiv](https://arxiv.org/pdf/2607.20842), [code](https://github.com/ersindas/abCBFs)
 
 **[March 17, 2026]** We submitted four papers to IEEE Control Systems Letters (L-CSS) and the IEEE Conference on Decision and Control (CDC) 2026. [arXiv](https://arxiv.org/pdf/2603.24566) <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2603.17097) <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2603.18450) <span style="color:green;">(Accepted)</span>,  [arXiv](https://arxiv.org/pdf/2604.08831) <span style="color:green;">(Accepted)</span>
@@ -27,8 +29,6 @@ News
 **[January 1, 2026]** I joined the <em><a href="https://www.iit.edu/mmae" style="color:#CC0000; text-decoration: underline;">Department of Mechanical, Materials, and Aerospace Engineering</a></em> at the <strong>Illinois Institute of Technology</strong> as an <strong>Assistant Professor</strong>.
 
 **[December 11, 2025]** We submitted a paper to the IFAC World Congress 2026. <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2512.10118), [code](https://github.com/ersindas/Quadrotor_CBF)
-
-**[November 4, 2025]** We submitted a paper to Automatica. [arXiv](https://arxiv.org/pdf/2503.15734)
 
 **[September 30, 2025]** We submitted a paper to the American Control Conference (ACC) 2026. <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2510.05436), [IEEE](https://ieeexplore.ieee.org/document/11615348), [code](https://github.com/davidvwijk/OI-CBF)
 
