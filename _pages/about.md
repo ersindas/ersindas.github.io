@@ -18,6 +18,8 @@ Prior to joining Illinois Tech, I was a postdoctoral researcher in the [Burdick 
 
 News
 ======
+**[October 2, 2026]** We submitted a paper to the American Control Conference (ACC) 2027. [arXiv](https://arxiv.org/pdf/2610.05381), [code](https://github.com/myusufuzun/bcbf-memory)
+
 **[August 28, 2026]** We submitted a paper to IEEE Open Journal of Control Systems. [arXiv](https://arxiv.org/pdf/2503.15734)
 
 **[July 27, 2026]** We submitted our paper “Robust Adaptive Backup Control Barrier Functions” to IEEE Control Systems Letters (L-CSS), with the option of presentation at the 2027 American Control Conference (ACC). [arXiv](https://arxiv.org/pdf/2607.20842), [code](https://github.com/ersindas/abCBFs)
