@@ -18,7 +18,7 @@ Prior to joining Illinois Tech, I was a postdoctoral researcher in the [Burdick 
 
 News
 ======
-**[October 21, 2026]** I will give a seminar on *Robust and Adaptive Safety-Critical Control of Autonomous Systems* as part of the Decision and Control Seminar Series at the University of Illinois Urbana-Champaign (UIUC). [Link](https://calendars.illinois.edu/detail/6991/33564599)
+**[October 21, 2026]** I gave a seminar on *Robust and Adaptive Safety-Critical Control of Autonomous Systems* as part of the Decision and Control Seminar Series at the University of Illinois Urbana-Champaign (UIUC). [Link](https://calendars.illinois.edu/detail/6991/33564599)
 
 **[October 2, 2026]** We submitted a paper to the American Control Conference (ACC) 2027. [arXiv](https://arxiv.org/pdf/2610.05381), [code](https://github.com/myusufuzun/bcbf-memory)
 
