@@ -8,7 +8,7 @@ author_profile: true
  <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">Google Scholar</a>.
 
 ## Preprints/Submitted
-1. M. Y. Uzun, **E. Daş**, *Backup Control Barrier Functions with Memory for Online Set Expansion*, *American Control Conference (ACC)*, 2027. [Paper](https://arxiv.org/pdf/2610.06284), [code](https://github.com/myusufuzun/bcbf-memory)
+1. M. Y. Uzun, **E. Daş**, *Backup Control Barrier Functions with Memory for Online Set Expansion*, *American Control Conference (ACC)*, 2027. [Paper](https://arxiv.org/pdf/2610.05381), [code](https://github.com/myusufuzun/bcbf-memory)
 2. **E. Daş**, D. E. J. van Wijk, T. G. Molnar, A. D. Ames, and J. W. Burdick, *Robust Adaptive Backup Control Barrier Functions*, *IEEE Control Systems Letters (L-CSS)*, 2026. [Paper](https://arxiv.org/pdf/2607.20842), [code](https://github.com/ersindas/abCBFs)
 3. H. T. Dinc, **E. Daş**, N. Thelenberg, and C. Ott, *Passivity-Guaranteed Variable Impedance and Compliance Control via Online Parameter Optimization*, *IEEE Robotics and Automation Letters*, 2026.
 4. D. E. J. van Wijk, **E. Daş**, A. Alan, S. Coogan, T. G. Molnar, J. W. Burdick, M. Majji, and K. L. Hobbs, *Uncertainty Estimators for Robust Backup Control Barrier Functions*, *IEEE Open Journal of Control Systems*, 2026. [Paper](https://arxiv.org/pdf/2503.15734)
