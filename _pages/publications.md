@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints/Submitted
 1. M. Y. Uzun, **E. Daş**, *Backup Control Barrier Functions with Memory for Online Set Expansion*, *American Control Conference (ACC)*, 2027. [Paper](https://arxiv.org/pdf/2610.05381), [code](https://github.com/myusufuzun/bcbf-memory)
-2. H. T. Dinc, **E. Daş**, N. Thelenberg, and C. Ott, *Passivity-Guaranteed Variable Impedance and Compliance Control via Online Parameter Optimization*, *Control Engineering Practice*, 2026.
+2. H. T. Dinc, **E. Daş**, N. Thelenberg, and C. Ott, *Passivity-Guaranteed Variable Impedance and Compliance Control via Online Parameter Optimization*, *Control Engineering Practice*, 2026. [Paper](https://arxiv.org/pdf/2611.10778)
 3. D. E. J. van Wijk, **E. Daş**, A. Alan, S. Coogan, T. G. Molnar, J. W. Burdick, M. Majji, and K. L. Hobbs, *Uncertainty Estimators for Robust Backup Control Barrier Functions*, *IEEE Open Journal of Control Systems*, 2026. [Paper](https://arxiv.org/pdf/2503.15734)
 4. E. Sayar, A. Redder, **E. Daş**, and E. Kayacan, *Safe Diffusion Planning via Batch-Parallel Model Predictive Control Projection and Pareto Selection*, *IEEE International Conference on Robotics and Automation (ICRA)*, 2027.
 5. J. Chun, S. S. Mousavi, D. E. J. van Wijk, **E. Daş**, A. D. Ames, and F. Biertümpfel, *Backup Control Barrier Function Synthesis using Sum-of-Squares Reachability*, *IEEE Control Systems Letters (L-CSS)*, 2026. [Paper](https://arxiv.org/pdf/2608.27916)  
