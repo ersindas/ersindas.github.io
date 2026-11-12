@@ -24,7 +24,7 @@ News
 
 **[August 28, 2026]** We submitted a paper to IEEE Open Journal of Control Systems. [arXiv](https://arxiv.org/pdf/2503.15734)
 
-**[July 27, 2026]** We submitted our paper “Robust Adaptive Backup Control Barrier Functions” to IEEE Control Systems Letters (L-CSS), with the option of presentation at the 2027 American Control Conference (ACC). <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2607.20842), [code](https://github.com/ersindas/abCBFs), [video](https://youtu.be/T7PMmvqTiy8)
+**[July 27, 2026]** We submitted our paper “Robust Adaptive Backup Control Barrier Functions” to IEEE Control Systems Letters (L-CSS), with the option of presentation at the 2027 American Control Conference (ACC). <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2607.20842), [IEEE](https://ieeexplore.ieee.org/document/11793640), [code](https://github.com/ersindas/abCBFs), [video](https://youtu.be/T7PMmvqTiy8)
 
 **[March 17, 2026]** We submitted four papers to IEEE Control Systems Letters (L-CSS) and the IEEE Conference on Decision and Control (CDC) 2026. [arXiv](https://arxiv.org/pdf/2603.24566) <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2603.17097) <span style="color:green;">(Accepted)</span>, [arXiv](https://arxiv.org/pdf/2603.18450) <span style="color:green;">(Accepted)</span>,  [arXiv](https://arxiv.org/pdf/2604.08831) <span style="color:green;">(Accepted)</span>
 
